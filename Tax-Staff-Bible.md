@@ -8963,3 +8963,1283 @@ Greater of:
 - Cash: 60% of AGI
 - Capital gain property: 30% of AGI
 - Private foundations: 30%/20%
+
+---
+
+## SECTION 11: STATE TAX CONSIDERATIONS
+
+### 11.1 STATE INCOME TAX OVERVIEW
+
+#### 11.1.1 States with No Income Tax
+
+**No Individual Income Tax:**
+1. Alaska
+2. Florida
+3. Nevada
+4. South Dakota
+5. Texas
+6. Washington
+7. Wyoming
+
+**Interest and Dividends Only:**
+- New Hampshire (phasing out by 2027)
+- Tennessee (repealed effective 2021)
+
+#### 11.1.2 State Tax Conformity
+
+**Federal Conformity Types:**
+
+**Rolling Conformity:**
+States automatically adopt IRC changes as enacted.
+- Most current federal law
+- Less legislative action needed
+- Examples: Colorado, Illinois, Kansas, Montana, New Mexico
+
+**Static/Fixed-Date Conformity:**
+States conform to IRC as of specific date.
+- Must update legislation for new federal provisions
+- May lag behind federal law
+- Examples: Arizona (12/31/2022), North Carolina (4/1/2023)
+
+**Selective Conformity:**
+States adopt specific IRC provisions.
+- Cherry-pick federal provisions
+- May have unique calculations
+- Examples: Arkansas, Mississippi
+
+**Common Non-Conformity Items:**
+- Bonus depreciation percentages
+- Section 179 limits
+- QBI deduction (Section 199A)
+- NOL rules
+- Interest expense limitations (Section 163(j))
+- GILTI and FDII
+- State-specific additions and subtractions
+
+#### 11.1.3 State Filing Requirements
+
+**Residency Rules:**
+
+**Resident:**
+- Domiciled in state, OR
+- Physically present for threshold period (varies by state)
+- Usually tax worldwide income
+
+**Nonresident:**
+- Not domiciled and not present for threshold
+- Tax only state-source income
+
+**Part-Year Resident:**
+- Changed domicile during year
+- Prorate income and deductions
+
+**Common Residency Tests:**
+- Domicile (permanent home)
+- Statutory resident (183+ days in most states)
+- Physical presence counting
+- Intent factors (voter registration, driver's license, etc.)
+
+**Multi-State Filing:**
+- File in resident state (worldwide income)
+- File in source state (allocated income)
+- Credit for taxes paid to other states
+
+### 11.2 MULTI-STATE TAXATION
+
+#### 11.2.1 Individual Multi-State Issues
+
+**Sourcing of Income:**
+
+**Wages/Salaries:**
+- Generally sourced to where services performed
+- Remote work creating new complexities
+- Convenience of employer rules (NY, PA, etc.)
+
+**Business Income (Sole Prop):**
+- Apportioned based on business activity
+- Factors: Sales, payroll, property
+
+**Rental Income:**
+- Sourced to property location
+- Deductions follow income
+
+**Capital Gains:**
+- Tangible personal property: Where property located
+- Intangible property: Usually resident state
+- Real property: Where located
+
+**Retirement Income:**
+- Federal law protects from source-state taxation
+- Taxed by resident state only
+
+**Credit for Taxes Paid:**
+
+**Purpose:**
+Prevent double taxation of same income.
+
+**Calculation:**
+Lesser of:
+- Tax paid to other state, OR
+- Tax on income sourced to other state in resident state
+
+**Ordering:**
+- Calculate resident state tax on worldwide income
+- Calculate credit for other state tax
+- Apply credit against resident state tax
+
+#### 11.2.2 Business Multi-State Issues
+
+**Nexus Standards:**
+
+**Physical Presence Nexus:**
+- Traditional standard
+- Employees, property, inventory in state
+- Regular solicitation
+
+**Economic Nexus:**
+- Based on economic activity in state
+- Wayfair decision impact
+- Common thresholds: $100,000 sales or 200 transactions
+
+**Factor Presence Nexus:**
+- Property, payroll, or sales in state
+- Even without physical presence
+
+**Income Allocation vs. Apportionment:**
+
+**Allocation:**
+- Specific income assigned to one state
+- Non-business income (dividends, rents, etc.)
+- Based on location or domicile
+
+**Apportionment:**
+- Business income divided among states
+- Formula-based division
+- Three traditional factors: Sales, payroll, property
+
+**Apportionment Formulas:**
+
+**Traditional Three-Factor:**
+(Sales Factor + Payroll Factor + Property Factor) / 3
+
+**Double-Weighted Sales:**
+(2 × Sales Factor + Payroll Factor + Property Factor) / 4
+
+**Single Sales Factor:**
+Sales Factor only (increasingly common)
+
+**Sales Factor Calculation:**
+Sales in State / Total Sales Everywhere
+
+**Sourcing Methods:**
+- Cost of performance (traditional)
+- Market-based sourcing (modern trend)
+
+**Payroll Factor:**
+Compensation Paid in State / Total Compensation
+
+**Sourcing:**
+- Where services performed
+- Base of operations
+- Control center
+
+**Property Factor:**
+Average Property in State / Average Total Property
+
+**Includes:**
+- Real property (original cost)
+- Tangible personal property (original cost)
+- Rented property (8× annual rent)
+
+**Throwback and Throwout Rules:**
+
+**Throwback:**
+Sales not taxable in destination state "thrown back" to origin state.
+- Increases origin state's sales factor
+- Check destination state nexus
+
+**Throwout:**
+Sales not taxable anywhere excluded from numerator AND denominator.
+- Reduces impact of protected sales
+
+### 11.3 STATE PASS-THROUGH ENTITY TAXES
+
+#### 11.3.1 PTET Overview
+
+**Background:**
+Response to SALT deduction limitation ($10,000 cap).
+
+**Concept:**
+- Entity pays state income tax at entity level
+- Owners receive federal deduction for state taxes
+- Bypasses individual SALT limitation
+
+**How It Works:**
+1. Entity elects to pay state income tax
+2. State taxes included in entity-level deduction
+3. Reduces pass-through income to owners
+4. Owners may claim credit on state return
+5. Federal deduction effectively unlimited
+
+**State Variations:**
+- Election timing (annual vs. quarterly)
+- Rate structure (flat vs. graduated)
+- Credit mechanism (refundable vs. nonrefundable)
+- Entity types covered
+- Owner consent requirements
+
+#### 11.3.2 Common PTET Structures
+
+**Entity-Level Tax with Credit:**
+- Entity pays tax on pass-through income
+- Owners claim credit on individual return
+- Most common structure
+
+**Elective PTET:**
+- Entity chooses to participate
+- Usually annual election
+- May be irrevocable for year
+
+**Mandatory PTET:**
+- Some states require entity-level tax
+- Credit provided to owners
+
+**Notable State Programs:**
+
+**California:**
+- 9.3% tax rate
+- Qualified taxpayers (income > $0 state tax)
+- Credit to shareholders/partners
+- Annual election
+
+**New York:**
+- Graduated rates (6.85% - 10.9%)
+- Credit to residents
+- Addback for nonresidents
+- Annual election by March 15
+
+**Connecticut:**
+- Mandatory for certain entities
+- 6.99% rate
+- Full credit to members
+
+**New Jersey:**
+- Optional election
+- Multiple rate tiers
+- Credit to members
+
+### 11.4 STATE PAYROLL TAX
+
+#### 11.4.1 State Unemployment Insurance (SUI)
+
+**Employer-Paid Tax:**
+- All states require employer contributions
+- Based on wage base and experience rate
+
+**Wage Bases (Vary by State):**
+- Range from $7,000 to $62,500+
+- Updated annually
+
+**Experience Rating:**
+- Based on employer's unemployment claims history
+- New employer rate assigned initially
+- Rates adjusted annually based on experience
+
+**Voluntary Contributions:**
+Some states allow voluntary contributions to:
+- Reduce experience rate
+- Lower future tax liability
+- Cost-benefit analysis needed
+
+#### 11.4.2 State Disability Insurance (SDI)
+
+**States with SDI:**
+- California
+- Hawaii
+- New Jersey
+- New York
+- Rhode Island
+- Puerto Rico
+
+**Characteristics:**
+- Usually employee-paid (some employer contribution)
+- Withheld from wages
+- Provides short-term disability benefits
+
+**Paid Family Leave:**
+Many states adding paid family leave programs:
+- California
+- New Jersey
+- New York
+- Rhode Island
+- Washington
+- Massachusetts
+- Connecticut
+- Oregon
+- Colorado
+- Maryland (coming)
+
+#### 11.4.3 State Income Tax Withholding
+
+**Employer Obligations:**
+- Withhold state income tax from employees
+- Based on state Form W-4 equivalent
+- Deposit per state schedule
+- File periodic returns
+
+**Multi-State Withholding:**
+- Withhold for state where services performed
+- May withhold for resident state also
+- Reciprocal agreements between some states
+
+**Reciprocal Agreements:**
+Agreement between states where residents only pay tax to home state.
+- Employer withholds for resident state
+- No nonresident state tax
+- Common in adjacent states
+
+**Examples:**
+- Illinois/Iowa/Kentucky/Michigan/Wisconsin
+- Maryland/DC/Pennsylvania/Virginia/West Virginia
+- Minnesota/Michigan/North Dakota
+- New Jersey/Pennsylvania
+
+### 11.5 STATE SALES AND USE TAX
+
+#### 11.5.1 Sales Tax Basics
+
+**What Is Sales Tax:**
+- Tax on retail sale of tangible personal property
+- Some states include services
+- Collected by seller, remitted to state
+
+**What Is Use Tax:**
+- Complement to sales tax
+- Tax on use, storage, consumption of property
+- Applies when sales tax not collected
+- Self-assessed by purchaser
+
+**Sales Tax Nexus (Post-Wayfair):**
+
+**Physical Presence:**
+- Traditional standard
+- Property, employees, inventory
+
+**Economic Nexus:**
+- Based on sales volume/transactions
+- Common threshold: $100,000 or 200 transactions
+- Varies by state
+
+**Marketplace Facilitator Laws:**
+- Online marketplace collects and remits
+- Relief for third-party sellers
+- Most states have adopted
+
+#### 11.5.2 Common Exemptions
+
+**Resale Exemption:**
+- Items purchased for resale
+- Requires resale certificate
+- Tax collected on final sale
+
+**Manufacturing Exemption:**
+- Equipment and materials used in manufacturing
+- Varies significantly by state
+
+**Agricultural Exemption:**
+- Farm equipment and supplies
+- Livestock and feed
+- Seeds and fertilizer
+
+**Medical Exemption:**
+- Prescription drugs (most states)
+- Medical equipment
+- Prosthetic devices
+
+**Food Exemption:**
+- Grocery food (many states)
+- Prepared food usually taxable
+- Candy and soft drinks vary
+
+**Nonprofit Exemption:**
+- Sales to nonprofits
+- Sales by nonprofits
+- Varies by state and organization
+
+---
+
+## SECTION 12: ADVANCED TAX PLANNING STRATEGIES
+
+### 12.1 INDIVIDUAL TAX PLANNING
+
+#### 12.1.1 Income Timing Strategies
+
+**Deferral Strategies:**
+
+**Installment Sales:**
+- Spread gain over payment period
+- Exclude collection costs
+- Interest charged on deferred amount
+- Watch for related party rules
+
+**Like-Kind Exchanges (Section 1031):**
+- Defer gain on exchange of real property
+- 45-day identification period
+- 180-day completion period
+- Qualified intermediary required
+- Boot triggers current recognition
+
+**Opportunity Zone Investments:**
+- Defer capital gains
+- 10-year holding for exclusion of OZ gain
+- Invest within 180 days
+- QOZB requirements
+
+**Retirement Contributions:**
+- Defer income through retirement savings
+- 401(k), 403(b), IRA, SEP, SIMPLE
+- Reduce current taxable income
+- Tax-deferred growth
+
+**Acceleration Strategies:**
+
+**When to Accelerate Income:**
+- Expect higher rates next year
+- Current year losses to offset
+- Lower bracket this year
+- Expiring credits or deductions
+
+**Methods:**
+- Bonus acceleration
+- Roth conversion
+- Early exercise of stock options
+- Accelerate business income (cash method)
+
+#### 12.1.2 Deduction Optimization
+
+**Bunching Strategies:**
+
+**Concept:**
+Concentrate deductions in alternating years to exceed standard deduction.
+
+**Charitable Bunching:**
+- Contribute multiple years' giving in one year
+- Donor-advised fund facilitates
+- Itemize in bunching year, standard deduction in other years
+
+**Medical Expense Bunching:**
+- Schedule elective procedures in one year
+- Prepay upcoming medical expenses
+- Exceed 7.5% AGI floor
+
+**SALT Bunching:**
+- Limited effectiveness due to $10,000 cap
+- May still help for property tax timing
+
+**Qualified Charitable Distributions:**
+- Direct IRA transfer to charity
+- Age 70½+ requirement
+- Satisfies RMD
+- Excluded from income
+- Up to $105,000 per year (2024)
+
+**Donor-Advised Funds:**
+- Immediate deduction for contribution
+- Grant to charities over time
+- Investment growth tax-free
+- Bunching tool
+
+#### 12.1.3 Investment Tax Planning
+
+**Tax-Loss Harvesting:**
+
+**Strategy:**
+Sell investments at loss to offset gains.
+
+**Rules:**
+- Short-term losses offset short-term gains first
+- Net losses offset opposite gains
+- $3,000 annual limit against ordinary income
+- Wash sale rule: 30 days before/after
+
+**Implementation:**
+- Review portfolio quarterly
+- Identify loss positions
+- Sell and replace with similar (not identical)
+- Track wash sale violations
+
+**Asset Location:**
+
+**Concept:**
+Place investments in optimal account type.
+
+**Tax-Efficient in Taxable:**
+- Index funds (low turnover)
+- Municipal bonds
+- Tax-managed funds
+- Long-term holdings
+
+**Tax-Inefficient in Tax-Advantaged:**
+- High-yield bonds
+- REITs
+- Active funds (high turnover)
+- Dividend-paying stocks
+
+**Gain Recognition Strategies:**
+
+**0% Capital Gains Rate:**
+- Recognize gains when in 0% bracket
+- Step up basis with no tax
+- Particularly useful for retirees
+
+**Specific Identification:**
+- Choose which lots to sell
+- Highest basis to minimize gain
+- Consider holding period
+
+### 12.2 BUSINESS TAX PLANNING
+
+#### 12.2.1 Entity Selection and Restructuring
+
+**Entity Comparison:**
+
+**Sole Proprietorship:**
+Pros:
+- Simple structure
+- No separate return
+- No double taxation
+- Full control
+
+Cons:
+- Self-employment tax on all profit
+- No liability protection
+- Limited benefits
+
+**Partnership/LLC:**
+Pros:
+- Flow-through taxation
+- Flexible allocations
+- Limited liability (LLC)
+- No SE tax on limited partners
+
+Cons:
+- Complex rules
+- Basis calculation
+- Partner disputes
+- Self-employment on GP share
+
+**S Corporation:**
+Pros:
+- Flow-through taxation
+- Reasonable salary reduces SE tax
+- Limited liability
+- Simpler than partnership
+
+Cons:
+- Reasonable compensation scrutiny
+- One class of stock
+- Shareholder restrictions
+- Debt basis limitations
+
+**C Corporation:**
+Pros:
+- 21% flat rate
+- Unlimited shareholders
+- Multiple stock classes
+- Better fringe benefits
+
+Cons:
+- Double taxation
+- Accumulated earnings tax risk
+- Personal holding company risk
+- Less flexibility
+
+**S Corporation Salary Optimization:**
+
+**Goal:**
+Balance SE tax savings with QBI deduction and retirement contributions.
+
+**Considerations:**
+- Reasonable compensation requirement
+- SE tax savings from distributions
+- QBI deduction based on W-2 wages
+- Retirement contribution maximization
+- Payroll tax exposure
+
+**Reasonable Compensation Factors:**
+- Training and experience
+- Duties and responsibilities
+- Time devoted
+- Comparable compensation
+- Dividend history
+- Economic conditions
+
+#### 12.2.2 Retirement Plan Strategies
+
+**Plan Selection:**
+
+**Solo 401(k):**
+- Owner-only businesses
+- Highest contribution potential
+- Employee + employer contributions
+- Roth option available
+
+**SEP-IRA:**
+- Simple administration
+- High contribution limit
+- Employer contributions only
+- Must cover all eligible employees
+
+**SIMPLE IRA:**
+- Lower contribution limits
+- Employee salary deferrals
+- Employer match/contribution
+- Two-year withdrawal penalty
+
+**Defined Benefit Plan:**
+- Highest contribution potential for older owners
+- Actuarially determined contributions
+- Complex administration
+- Investment risk on employer
+
+**Contribution Maximization:**
+
+**401(k) Components:**
+1. Employee deferral: $23,000 (2024)
+2. Catch-up (50+): $7,500
+3. Employer contribution: Up to 25% of compensation
+4. Total limit: $69,000 (plus catch-up)
+
+**Self-Employed Calculation:**
+Net SE income × 20% (after SE tax deduction) = Employer contribution
+
+**Combination Plans:**
+- 401(k) + Cash Balance
+- Multiple employer plans
+- Maximize total deferrals
+
+#### 12.2.3 Cost Segregation
+
+**What Is Cost Segregation:**
+Engineering study to reclassify building components for faster depreciation.
+
+**Benefits:**
+- Accelerate depreciation deductions
+- Improve cash flow
+- Time value of money
+
+**Property Reclassification:**
+
+**From 39/27.5 Year to:**
+- 5-year property (carpets, appliances)
+- 7-year property (furniture, fixtures)
+- 15-year property (land improvements)
+
+**Typical Reclassification:**
+- Electrical systems (specific use)
+- Plumbing (specific use)
+- HVAC (specific use)
+- Decorative features
+- Specialized flooring
+- Site improvements
+
+**When to Consider:**
+- Building purchase or construction
+- Significant improvements
+- Retroactive studies available
+- Combined with bonus depreciation
+
+**Study Requirements:**
+- Qualified engineer or architect
+- Detailed analysis of property
+- Documentation for IRS
+- Cost of study vs. benefit
+
+### 12.3 ESTATE AND GIFT TAX PLANNING
+
+#### 12.3.1 Lifetime Gifting Strategies
+
+**Annual Exclusion Gifting:**
+- $18,000 per donee (2024)
+- Unlimited donees
+- Spousal gift splitting: $36,000
+- No gift tax return if within limit
+
+**Exclusion Strategies:**
+- Gifts to children and grandchildren
+- 529 plan super-funding
+- Custodial accounts (UGMA/UTMA)
+- Direct payment of tuition/medical
+
+**Lifetime Exemption Usage:**
+
+**2024 Exemption: $13,610,000**
+
+**Considerations:**
+- Higher exemption may sunset in 2026
+- Use it or lose it mentality
+- Basis considerations
+- Asset protection issues
+
+**Gifting Techniques:**
+- Outright gifts
+- Trusts (GRAT, IDIT, QPRT)
+- Family limited partnerships
+- Charitable giving
+
+**Basis Planning:**
+- Low basis assets: Consider step-up at death
+- High basis assets: Better for lifetime gifts
+- Loss assets: Never gift
+
+#### 12.3.2 Trust Planning
+
+**Common Trust Types:**
+
+**Revocable Living Trust:**
+- Avoid probate
+- Privacy
+- Incapacity planning
+- No tax benefits
+
+**Irrevocable Life Insurance Trust (ILIT):**
+- Exclude life insurance from estate
+- Three-year look-back rule
+- Crummey powers for gift tax
+
+**Grantor Retained Annuity Trust (GRAT):**
+- Transfer appreciation at reduced gift tax cost
+- Retained annuity
+- Zeroed-out GRAT
+
+**Qualified Personal Residence Trust (QPRT):**
+- Transfer residence at reduced value
+- Retained right to live in home
+- Term of years
+
+**Intentionally Defective Grantor Trust (IDGT):**
+- Grantor trust for income tax
+- Completed gift for estate tax
+- Sale to trust without income recognition
+
+**Charitable Trusts:**
+
+**Charitable Remainder Trust:**
+- Income to donor during life
+- Remainder to charity
+- Income tax deduction
+- Estate tax deduction
+
+**Charitable Lead Trust:**
+- Income to charity
+- Remainder to family
+- Gift/estate tax reduction
+- Wealth transfer tool
+
+---
+
+## SECTION 13: COMMON TAX ISSUES AND SOLUTIONS
+
+### 13.1 FREQUENTLY ENCOUNTERED PROBLEMS
+
+#### 13.1.1 Income Reporting Issues
+
+**Problem: Missing 1099**
+Client didn't receive 1099 but knows income was earned.
+
+**Solution:**
+- Request copy from payer
+- Use records to reconstruct income
+- Report income even without 1099
+- Document source of information
+
+**Problem: 1099 Amount Incorrect**
+1099 shows different amount than client records.
+
+**Solution:**
+- Request corrected 1099 from payer
+- If can't get corrected, report correct amount
+- Attach explanation if different from reported
+- Keep documentation of correct amount
+
+**Problem: Duplicate 1099s**
+Same income reported on multiple 1099s.
+
+**Solution:**
+- Identify duplicate reporting
+- Report correct amount once
+- Attach statement explaining discrepancy
+- Be prepared for CP2000 notice
+
+**Problem: Missing K-1**
+Partnership or S Corp hasn't issued K-1.
+
+**Solution:**
+- Contact entity for K-1 or estimate
+- File extension if needed
+- Use estimate and amend when K-1 received
+- Document attempts to obtain K-1
+
+#### 13.1.2 Deduction Issues
+
+**Problem: Missing Substantiation**
+Client claims deduction but lacks documentation.
+
+**Solution:**
+- Attempt to reconstruct records
+- Use alternative documentation (credit card, bank statements)
+- Cohan rule for reasonable estimates
+- Advise client of audit risk
+- Consider not claiming if insufficient support
+
+**Problem: Personal vs. Business Expense**
+Mixed-use expense needs allocation.
+
+**Solution:**
+- Determine business percentage
+- Document basis for allocation
+- Apply appropriate limitation
+- Keep records of methodology
+
+**Problem: Capital vs. Repair**
+Determining if expense is deductible or must be capitalized.
+
+**Solution:**
+- Apply improvement criteria (better, restore, adapt)
+- Consider de minimis safe harbor ($2,500 or $5,000)
+- Small taxpayer safe harbor for buildings
+- Document treatment and rationale
+
+#### 13.1.3 Credit Issues
+
+**Problem: Education Credit Qualification**
+Uncertainty about student eligibility.
+
+**Solution:**
+- Verify enrollment status with Form 1098-T
+- Confirm first four years for AOTC
+- Check program leads to degree/credential
+- Review prior year credits claimed
+
+**Problem: EITC Qualifying Child**
+Multiple parties claim same child.
+
+**Solution:**
+- Apply tiebreaker rules:
+  1. Parent wins over non-parent
+  2. If both parents, one child lived with longer
+  3. If same time, higher AGI parent
+  4. If one parent, other non-parent, parent wins
+- Document residency and relationship
+
+**Problem: Child Tax Credit SSN Requirement**
+Child has ITIN instead of SSN.
+
+**Solution:**
+- Child must have SSN for CTC
+- ITIN children may qualify for $500 Other Dependent Credit
+- Help client obtain SSN if eligible
+- Document limitation
+
+### 13.2 IRS CORRESPONDENCE HANDLING
+
+#### 13.2.1 CP2000 Response Scenarios
+
+**Scenario: Unreported 1099-NEC**
+IRS says client received $5,000 from Company X.
+
+**Response Options:**
+1. If income was reported on Schedule C, provide explanation
+2. If truly unreported, agree and calculate correct tax
+3. If incorrect amount, provide documentation of correct amount
+4. If income was from services as employee, explain misclassification
+
+**Documentation Needed:**
+- Copy of 1099-NEC
+- Proof of where income reported (if applicable)
+- Expense documentation (if self-employment)
+- Records showing correct amount
+
+**Scenario: Stock Sale Not Reconciled**
+1099-B shows $50,000 proceeds, no cost basis reported.
+
+**Response:**
+- Provide original purchase documentation
+- Calculate correct gain or loss
+- Complete Form 8949 with adjustment codes
+- Include brokerage statements
+
+**Scenario: Missing K-1 Income**
+IRS shows Schedule K-1 income not on return.
+
+**Response:**
+- If reported elsewhere, identify location
+- If not received, provide evidence of request
+- If received but not included, calculate impact
+- Review basis for loss limitations
+
+#### 13.2.2 Audit Response Best Practices
+
+**Initial Response:**
+1. Acknowledge receipt of notice
+2. Review audit scope
+3. Gather relevant documents
+4. Prepare organized response
+5. Request additional time if needed
+
+**Document Organization:**
+- Organize by issue
+- Tab for easy reference
+- Include summary cover sheet
+- Highlight key items
+- Provide copies, retain originals
+
+**Communication Guidelines:**
+- Respond only to questions asked
+- Provide only documents requested
+- Be professional and courteous
+- Take notes of discussions
+- Confirm agreements in writing
+
+**Resolution Options:**
+- Full agreement (fastest resolution)
+- Partial agreement (negotiate)
+- Disagree (administrative appeal)
+- Request manager review
+- Petition Tax Court if needed
+
+### 13.3 COMMON CALCULATION ERRORS
+
+#### 13.3.1 Individual Return Errors
+
+**Error: Wrong Filing Status**
+Using Single when Head of Household applies.
+
+**Prevention:**
+- Ask about living arrangements
+- Verify dependent support
+- Document qualifying person
+
+**Error: Dependent Incorrectly Claimed**
+Claiming child who doesn't meet tests.
+
+**Prevention:**
+- Verify residency (6+ months)
+- Check support test
+- Confirm joint return test
+- Review tiebreaker rules
+
+**Error: Incorrect Capital Gains**
+Using wrong basis or holding period.
+
+**Prevention:**
+- Verify purchase date and price
+- Track splits, dividends, wash sales
+- Confirm 1099-B basis
+- Apply correct adjustment codes
+
+**Error: QBI Calculation Incorrect**
+Wrong income included or limitation applied.
+
+**Prevention:**
+- Identify qualified business income
+- Apply SSTB rules correctly
+- Calculate W-2/UBIA limitation
+- Use correct threshold amounts
+
+#### 13.3.2 Business Return Errors
+
+**Error: Incorrect Officer Compensation**
+S Corporation shows no reasonable compensation.
+
+**Prevention:**
+- Analyze similar positions
+- Document compensation decision
+- Consider multiple factors
+- File timely W-2
+
+**Error: Basis Calculation Incorrect**
+Partner/shareholder takes loss exceeding basis.
+
+**Prevention:**
+- Maintain annual basis schedules
+- Apply ordering rules correctly
+- Track debt basis (S corps)
+- Suspend losses exceeding basis
+
+**Error: Schedule M-1 Doesn't Reconcile**
+Book income doesn't tie to tax income.
+
+**Prevention:**
+- Identify all differences
+- Categorize permanent vs. temporary
+- Document each adjustment
+- Verify mathematical accuracy
+
+---
+
+## SECTION 14: APPENDICES
+
+### APPENDIX A: COMMON IRC SECTION REFERENCES
+
+**Income Provisions:**
+- §61 - Gross income defined
+- §71 - Alimony and separate maintenance payments
+- §74 - Prizes and awards
+- §79 - Group-term life insurance
+- §83 - Property transferred in connection with performance of services
+- §85 - Unemployment compensation
+- §86 - Social Security and Railroad Retirement benefits
+
+**Exclusions:**
+- §101 - Life insurance proceeds
+- §102 - Gifts and inheritances
+- §103 - Interest on state and local bonds
+- §104 - Compensation for injuries or sickness
+- §105 - Amounts received under accident and health plans
+- §106 - Employer contributions to accident and health plans
+- §108 - Income from discharge of indebtedness
+- §117 - Qualified scholarships
+- §119 - Meals and lodging furnished for convenience of employer
+- §121 - Exclusion of gain from sale of principal residence
+- §125 - Cafeteria plans
+- §127 - Educational assistance programs
+- §129 - Dependent care assistance programs
+- §132 - Certain fringe benefits
+
+**Deductions:**
+- §162 - Trade or business expenses
+- §163 - Interest
+- §164 - Taxes
+- §165 - Losses
+- §166 - Bad debts
+- §167 - Depreciation
+- §168 - Accelerated cost recovery system
+- §170 - Charitable contributions
+- §179 - Election to expense certain depreciable business assets
+- §183 - Activities not engaged in for profit (hobby losses)
+- §195 - Start-up expenditures
+- §197 - Amortization of goodwill and certain other intangibles
+- §199A - Qualified business income
+
+**Credits:**
+- §21 - Child and dependent care
+- §22 - Credit for the elderly and permanently disabled
+- §23 - Adoption expenses
+- §24 - Child tax credit
+- §25A - Education credits
+- §25D - Residential energy credit
+- §27 - Foreign tax credit
+- §31 - Tax withheld on wages
+- §32 - Earned income credit
+- §36B - Premium tax credit
+- §38 - General business credit
+- §41 - Research credit
+- §45 - Electricity produced from renewable resources
+- §51 - Work opportunity credit
+
+**Corporations:**
+- §243 - Dividends received deduction
+- §246 - Rules for dividends received deduction
+- §269 - Acquisitions to evade or avoid income tax
+- §279 - Interest on indebtedness incurred to acquire stock
+- §291 - Special rules for S corporations
+- §301 - Distributions of property
+- §302 - Distributions in redemption of stock
+- §303 - Distributions in redemption of stock to pay death taxes
+- §304 - Redemption through related corporations
+- §305 - Distributions of stock and stock rights
+- §306 - Dispositions of certain stock
+- §311 - Taxability of corporation on distribution
+- §312 - Effect on earnings and profits
+- §316 - Dividend defined
+- §318 - Constructive ownership of stock
+- §331 - Gain or loss on corporate liquidations
+- §332 - Complete liquidations of subsidiaries
+- §351 - Transfer to corporation controlled by transferor
+- §355 - Distribution of stock of controlled corporations
+- §368 - Corporate reorganizations
+- §381 - Carryovers in corporate acquisitions
+- §382 - Limitation on net operating loss carryforwards
+- §383 - Special limitations on certain excess credits
+
+**S Corporations:**
+- §1361 - S corporation defined
+- §1362 - Election; revocation; termination
+- §1363 - Effect of election on corporation
+- §1366 - Pass-through of items to shareholders
+- §1367 - Adjustments to basis of stock of shareholders
+- §1368 - Distributions
+- §1371 - Coordination with subchapter C
+- §1374 - Built-in gains tax
+- §1375 - Tax on passive investment income
+
+**Partnerships:**
+- §701 - Partners, not partnership, subject to tax
+- §702 - Income and credits of partner
+- §703 - Partnership computations
+- §704 - Partner's distributive share
+- §705 - Determination of basis of partner's interest
+- §706 - Taxable years of partner and partnership
+- §707 - Transactions between partner and partnership
+- §708 - Continuation of partnership
+- §709 - Treatment of organization and syndication fees
+- §721 - Nonrecognition of gain or loss on contribution
+- §722 - Basis of contributing partner's interest
+- §723 - Basis of property contributed to partnership
+- §731 - Extent of recognition of gain or loss on distribution
+- §732 - Basis of distributed property
+- §733 - Basis of distributee partner's interest
+- §734 - Adjustment to basis of undistributed partnership property
+- §735 - Character of gain or loss on disposition
+- §736 - Payments to a retiring partner
+- §737 - Recognition of precontribution gain in case of certain distributions
+- §741 - Recognition and character of gain or loss on sale or exchange
+- §743 - Optional adjustment to basis of partnership property
+- §751 - Unrealized receivables and inventory items
+- §752 - Treatment of certain liabilities
+- §754 - Manner of electing optional adjustment to basis
+
+**Passive Activities:**
+- §465 - Deductions limited to amount at risk
+- §469 - Passive activity losses and credits limited
+
+**Capital Gains:**
+- §1(h) - Maximum capital gains rate
+- §1014 - Basis of property acquired from a decedent
+- §1015 - Basis of property acquired by gift
+- §1031 - Like-kind exchanges
+- §1033 - Involuntary conversions
+- §1041 - Transfers between spouses
+- §1202 - Partial exclusion for gain from certain small business stock
+- §1221 - Capital asset defined
+- §1222 - Holding period
+- §1223 - Holding period of property received in certain transactions
+- §1231 - Property used in trade or business
+- §1239 - Gain from sale of depreciable property between related parties
+- §1244 - Losses on small business stock
+- §1245 - Gain from dispositions of certain depreciable property
+- §1250 - Gain from dispositions of certain depreciable realty
+
+**Employment Tax:**
+- §3101 - FICA employee tax
+- §3102 - Withholding of employee tax
+- §3111 - FICA employer tax
+- §3121 - Definitions
+- §3301 - FUTA rate
+- §3306 - Definitions
+- §3401 - Definitions (income tax withholding)
+- §3402 - Income tax collected at source
+
+**Self-Employment Tax:**
+- §1401 - Self-employment tax rate
+- §1402 - Definitions
+
+**Penalties:**
+- §6651 - Failure to file or pay
+- §6654 - Underpayment of estimated tax by individuals
+- §6655 - Underpayment of estimated tax by corporations
+- §6662 - Accuracy-related penalty
+- §6663 - Fraud penalty
+- §6694 - Understatement of taxpayer's liability by tax return preparer
+- §6695 - Other assessable penalties with respect to return preparers
+- §6698 - Failure to file partnership return
+- §6699 - Failure to file S corporation return
+- §6721 - Failure to file correct information returns
+- §6722 - Failure to furnish correct payee statements
+
+### APPENDIX B: USEFUL IRS PUBLICATIONS
+
+**Individual Tax:**
+- Publication 17: Your Federal Income Tax
+- Publication 501: Dependents, Standard Deduction, and Filing Information
+- Publication 503: Child and Dependent Care Expenses
+- Publication 504: Divorced or Separated Individuals
+- Publication 505: Tax Withholding and Estimated Tax
+- Publication 523: Selling Your Home
+- Publication 525: Taxable and Nontaxable Income
+- Publication 526: Charitable Contributions
+- Publication 527: Residential Rental Property
+- Publication 529: Miscellaneous Deductions (historical)
+- Publication 530: Tax Information for Homeowners
+- Publication 535: Business Expenses
+- Publication 544: Sales and Other Dispositions of Assets
+- Publication 550: Investment Income and Expenses
+- Publication 551: Basis of Assets
+- Publication 554: Tax Guide for Seniors
+- Publication 559: Survivors, Executors, and Administrators
+- Publication 560: Retirement Plans for Small Business
+- Publication 561: Determining the Value of Donated Property
+- Publication 575: Pension and Annuity Income
+- Publication 587: Business Use of Your Home
+- Publication 590-A: Contributions to IRAs
+- Publication 590-B: Distributions from IRAs
+- Publication 596: Earned Income Credit
+
+**Business Tax:**
+- Publication 334: Tax Guide for Small Business
+- Publication 463: Travel, Gift, and Car Expenses
+- Publication 535: Business Expenses
+- Publication 536: Net Operating Losses
+- Publication 538: Accounting Periods and Methods
+- Publication 541: Partnerships
+- Publication 542: Corporations
+- Publication 544: Sales and Other Dispositions of Assets
+- Publication 583: Starting a Business and Keeping Records
+- Publication 946: How to Depreciate Property
+
+**Employment Tax:**
+- Publication 15 (Circular E): Employer's Tax Guide
+- Publication 15-A: Employer's Supplemental Tax Guide
+- Publication 15-B: Employer's Tax Guide to Fringe Benefits
+- Publication 15-T: Federal Income Tax Withholding Methods
+- Publication 926: Household Employer's Tax Guide
+- Publication 1779: Independent Contractor or Employee
+
+### APPENDIX C: KEY DATES AND DEADLINES
+
+**January:**
+- 15: Q4 estimated tax payment due
+- 31: W-2 and 1099-NEC due to recipients and SSA/IRS
+- 31: Form 941 due for Q4 (or Feb 10 if all deposits made)
+- 31: Form 940 due
+
+**February:**
+- 15: W-4 exemption from withholding expires
+- 28: Paper 1099s (other than NEC) due to IRS
+
+**March:**
+- 15: Partnership (1065) and S Corp (1120-S) returns due
+- 15: Partnership and S Corp extension deadline (Form 7004)
+- 31: Electronic 1099s (other than NEC) due to IRS
+
+**April:**
+- 15: Individual (1040) returns due
+- 15: C Corporation (1120) returns due
+- 15: Individual extension deadline (Form 4868)
+- 15: C Corp extension deadline (Form 7004)
+- 15: Q1 estimated tax payment due
+- 15: Last day for prior year IRA/HSA contributions
+
+**May:**
+- 15: Tax-exempt organization (990) returns due
+
+**June:**
+- 15: Q2 estimated tax payment due
+- 15: Automatic 2-month extension for taxpayers abroad
+
+**September:**
+- 15: Extended Partnership and S Corp returns due
+- 15: Q3 estimated tax payment due
+- 15: Extended C Corp returns (calendar year) due
+
+**October:**
+- 15: Extended Individual returns due
+- 15: Extended Trust (1041) returns due
+
+**November:**
+- 15: Extended C Corp returns (June 30 fiscal year) due
+
+**December:**
+- 31: Required Minimum Distribution deadline
+- 31: Last day for certain deductions
