@@ -6922,3 +6922,2044 @@ Special requirements for:
 - Response tracking
 - Client acknowledgment
 - Decision documentation
+
+---
+
+## SECTION 6: IRS NOTICE HANDLING - DETAILED PROCEDURES
+
+### 6.1 NOTICE IDENTIFICATION AND RESPONSE PROTOCOLS
+
+#### 6.1.1 CP Notice Series - Complete Reference
+
+**CP2000 - Proposed Changes (Automated Underreporter)**
+
+**What It Is:**
+IRS computer-generated notice showing discrepancy between tax return and information returns (W-2, 1099, K-1).
+
+**Common Triggers:**
+- Unreported 1099-NEC or 1099-MISC income
+- Missing Schedule K-1 income
+- 1099-B proceeds not reconciled
+- W-2 income discrepancies
+- Missing Schedule C income
+- Dividend or interest income differences
+
+**Response Timeline:**
+- 30 days from notice date to respond
+- Can request additional 30-day extension
+- Failure to respond results in assessment
+
+**Response Options:**
+
+**Option 1: Full Agreement**
+- Complete response form
+- Sign and date
+- Include payment or request payment plan
+- Return within 30 days
+
+**Option 2: Partial Agreement**
+- Complete response form
+- Indicate items agreed/disagreed
+- Provide explanation for disagreements
+- Include supporting documentation
+- Calculate correct tax if different
+
+**Option 3: Full Disagreement**
+- Complete response form
+- Provide detailed explanation
+- Include all supporting documentation
+- Request examination if complex
+
+**Documentation to Include:**
+- Corrected 1099 (if received)
+- Basis information for securities
+- Cost of goods sold for 1099-K
+- Business expense documentation
+- Prior year carryovers affecting income
+- Copies of original information returns
+
+**CP2000 Response Letter Template Elements:**
+1. Notice number and date
+2. Taxpayer name and SSN
+3. Tax year
+4. Response type (agree/disagree)
+5. Detailed explanation by item
+6. Summary of correct figures
+7. Request for adjustment
+8. Attachments list
+9. Signature and date
+10. Contact information
+
+**CP11/CP12/CP13 - Math Error Notices**
+
+**CP11: Changes Made, Balance Due**
+IRS changed return due to calculation error, resulting in balance due.
+
+**Response:**
+- Review changes carefully
+- If agree: Pay balance or set up payment plan
+- If disagree: Request abatement within 60 days
+- Provide calculation showing correct amount
+
+**CP12: Changes Made, Refund Changed**
+IRS changed return, affecting refund amount.
+
+**Response:**
+- Review changes
+- If agree: Accept adjusted refund
+- If disagree: Request original refund amount
+- Explain correct calculation
+
+**CP13: Changes Made, No Balance or Refund Change**
+IRS made changes but no tax impact.
+
+**Response:**
+- Review for understanding
+- File amended return if changes incorrect
+- No payment/response typically required
+
+**CP14 - First Balance Due Notice**
+
+**What It Is:**
+First notice that balance is due on filed return.
+
+**Response Timeline:**
+21 days to pay to avoid additional interest
+
+**Response Options:**
+1. Pay in full
+2. Set up payment plan (Online Payment Agreement)
+3. Request consideration if disagree
+4. File amended return if error
+
+**Interest and Penalties Accruing:**
+- Interest from original due date
+- Failure to pay penalty (0.5% per month, max 25%)
+- Compounding interest
+
+**CP501/CP503/CP504 - Collection Notices**
+
+**CP501: Reminder of Balance Due**
+Second notice, requesting payment.
+
+**CP503: Second Reminder**
+Urgent request for payment.
+Warning of collection action.
+
+**CP504: Intent to Levy**
+Final notice before levy.
+States intent to levy specific items.
+
+**Response:**
+- Pay balance immediately
+- Set up Installment Agreement
+- Submit Offer in Compromise (if applicable)
+- Request Currently Not Collectible status
+- Appeal if disagree with assessment
+
+**LT11/LT1058 - Final Notice of Intent to Levy**
+
+**What It Is:**
+Final notice before IRS can levy wages, bank accounts, and other assets.
+
+**Collection Due Process Rights:**
+- Right to hearing within 30 days
+- Can challenge underlying liability
+- Can propose collection alternatives
+- Must request hearing timely
+
+**CDP Hearing Request:**
+- File Form 12153
+- Within 30 days of notice date
+- Specify issues to discuss
+- Collection suspended during hearing
+
+#### 6.1.2 IRS Letter Types - Detailed Guide
+
+**Letter 525 - General Audit Notice**
+
+**What It Is:**
+Notification that return has been selected for examination.
+
+**Contents:**
+- Returns/years under examination
+- Items being examined
+- Information requests
+- Response deadline
+- Examiner contact information
+
+**Response Strategy:**
+1. Acknowledge receipt promptly
+2. Request additional time if needed
+3. Gather requested documentation
+4. Prepare response package
+5. Consider representation
+
+**Letter 531 - Notice of Deficiency (90-Day Letter)**
+
+**What It Is:**
+Official determination of additional tax due.
+Opens 90-day window to petition Tax Court.
+
+**Critical Deadlines:**
+- 90 days to petition Tax Court (150 if outside US)
+- No extension available
+- Mailing date controls, not receipt date
+
+**Options:**
+1. Pay and file claim for refund
+2. File Tax Court petition
+3. Do nothing (assessment becomes final)
+
+**Tax Court Petition:**
+- Must be filed within 90 days
+- $60 filing fee
+- Can represent self or hire attorney
+- Small tax case procedure if under $50,000
+
+**Letter 950 - 30-Day Letter**
+
+**What It Is:**
+Examination report with proposed changes.
+Offers appeal rights.
+
+**Response Options:**
+1. Sign and agree (assessment issued)
+2. Request Appeals conference
+3. Do nothing (proceeds to 90-day letter)
+
+**Appeals Request:**
+- Written protest required if >$25,000
+- Small case request if ≤$25,000
+- Must request within 30 days
+- Can resolve many issues at Appeals
+
+### 6.2 AUDIT REPRESENTATION PROCEDURES
+
+#### 6.2.1 Pre-Audit Preparation
+
+**Document Organization:**
+
+**Income Documentation:**
+- All W-2s
+- All 1099s
+- K-1s
+- Bank statements
+- Sales records
+- Contracts
+
+**Deduction Documentation:**
+- Receipts
+- Invoices
+- Cancelled checks
+- Credit card statements
+- Log books
+- Contracts
+- Appraisals
+
+**Workpaper Preparation:**
+- Reconciliation schedules
+- Computation worksheets
+- Prior year carryover schedules
+- Basis calculations
+- Research memoranda
+
+**Issue Anticipation:**
+- Identify audit triggers
+- Prepare explanations
+- Gather supporting authority
+- Develop response strategy
+
+#### 6.2.2 Audit Conference Procedures
+
+**Initial Document Response:**
+
+**Provide Only What Is Requested:**
+- Do not volunteer additional information
+- Organize documents clearly
+- Provide copies, not originals
+- Maintain document log
+
+**Initial Meeting Preparation:**
+- Review all documents
+- Understand issues
+- Prepare opening statement
+- Have documentation organized
+
+**During the Examination:**
+
+**Communication Guidelines:**
+- Answer questions directly
+- Do not elaborate unnecessarily
+- Request clarification if needed
+- Take notes
+- Request time to research if needed
+
+**Document Handling:**
+- Provide documents as organized
+- Explain documents when asked
+- Do not interpret for examiner
+- Request copies of examiner's workpapers
+
+**Issue Resolution:**
+- Address issues systematically
+- Provide authority for positions
+- Negotiate when appropriate
+- Document agreements
+
+#### 6.2.3 Post-Audit Procedures
+
+**Examination Report Review:**
+
+**If Agree:**
+- Sign Form 870 (Waiver of Restrictions)
+- Assessment becomes final
+- Pay or set up payment plan
+- Interest accrues from original due date
+
+**If Disagree:**
+
+**30-Day Letter Options:**
+1. Request Appeals conference
+2. Pay and file claim for refund
+3. Wait for 90-day letter
+
+**Appeals Conference:**
+- Present case to Appeals Officer
+- More flexible than Examination
+- Settlement authority
+- Can resolve most issues
+
+**90-Day Letter Options:**
+1. File Tax Court petition
+2. Pay and file claim for refund
+3. Accept assessment
+
+### 6.3 PENALTY ABATEMENT PROCEDURES
+
+#### 6.3.1 Reasonable Cause Categories
+
+**Death or Serious Illness:**
+- Death of taxpayer or immediate family
+- Serious illness preventing compliance
+- Hospitalization
+- Required documentation: Death certificate, medical records
+
+**Fire, Casualty, or Natural Disaster:**
+- Fire destroying records
+- Flood or hurricane damage
+- Casualty to records or equipment
+- Required documentation: Police reports, insurance claims
+
+**Unable to Obtain Records:**
+- Records held by third party
+- Third party unresponsive
+- Records destroyed by third party
+- Required documentation: Correspondence showing efforts
+
+**Incorrect Advice:**
+- Erroneous IRS advice
+- Must have requested advice
+- Must have provided accurate information
+- Required documentation: IRS correspondence or notes
+
+**Reliance on Tax Professional:**
+- Reasonable reliance on advisor
+- Advisor must be competent
+- Taxpayer provided accurate information
+- Required documentation: Engagement letter, correspondence
+
+**Ignorance of Law:**
+- First-time penalty
+- Complex issue
+- Recent law change
+- Good faith effort to comply
+
+#### 6.3.2 First-Time Abatement (FTA)
+
+**Eligibility Requirements:**
+
+**Filing Compliance:**
+- Filed or extended all required returns
+- Currently in compliance
+- No outstanding returns
+
+**Payment Compliance:**
+- Paid all taxes due
+- Currently in compliance
+- No outstanding balances (or in payment plan)
+
+**Clean Penalty History:**
+- No penalties in prior three years
+- Some minor penalties may be overlooked
+- IRS reviews three years before penalty year
+
+**Penalties Eligible for FTA:**
+- Failure to file penalty
+- Failure to pay penalty
+- Failure to deposit penalty
+- Combined total in one year
+
+**Request Procedures:**
+
+**Phone Request:**
+- Call Practitioner Priority Service
+- Provide taxpayer information
+- Request FTA
+- Note confirmation number
+
+**Written Request:**
+- Letter to IRS
+- Include taxpayer information
+- State request for FTA
+- Reference clean history
+
+#### 6.3.3 Abatement Request Letter Template
+
+**Required Elements:**
+
+**Header:**
+- IRS address (specific service center)
+- RE: Penalty Abatement Request
+- Taxpayer name and SSN/EIN
+- Tax year(s)
+- Notice number (if applicable)
+
+**Body:**
+
+**Paragraph 1 - Introduction:**
+State request for penalty abatement and identify penalties.
+
+**Paragraph 2 - Facts:**
+Explain circumstances leading to penalty.
+
+**Paragraph 3 - Reasonable Cause:**
+Explain why circumstances constitute reasonable cause.
+
+**Paragraph 4 - Ordinary Business Care:**
+Explain steps taken to comply.
+
+**Paragraph 5 - Future Compliance:**
+Commit to future compliance.
+
+**Closing:**
+Request for favorable response.
+Contact information.
+Signature.
+
+**Attachments:**
+- Supporting documentation
+- Power of Attorney (Form 2848)
+- Copy of notice (if applicable)
+
+---
+
+## SECTION 7: SPECIALIZED TAX TOPICS
+
+### 7.1 QUALIFIED BUSINESS INCOME DEDUCTION (SECTION 199A)
+
+#### 7.1.1 QBI Deduction Framework
+
+**Basic Calculation:**
+Lesser of:
+1. 20% of QBI from qualified businesses, OR
+2. 20% of taxable income minus net capital gains
+
+**Qualifying Entities:**
+- Sole proprietorships
+- Partnerships
+- S Corporations
+- Limited liability companies (pass-through)
+- Trusts and estates
+
+**NOT Qualifying:**
+- C corporations
+- Employee wages
+- Guaranteed payments for services
+- Investment income
+
+#### 7.1.2 Qualified Business Income Definition
+
+**QBI Includes:**
+- Net amount of qualified items of income, gain, deduction, loss
+- From qualified trade or business
+- Operating in the U.S.
+- Included in taxable income
+
+**QBI Excludes:**
+- Capital gains/losses
+- Dividends
+- Interest income (unless lending business)
+- Wages/salaries
+- Reasonable compensation from S corp
+- Guaranteed payments to partners
+- Foreign source income
+- Commodities gains/losses (unless certain businesses)
+- Annuity income
+- Income from certain prohibited transactions
+
+**Qualified Trade or Business:**
+Any trade or business EXCEPT:
+- Specified service trade or business (above threshold)
+- Trade or business of being employee
+
+#### 7.1.3 Specified Service Trade or Business (SSTB)
+
+**SSTB Categories:**
+
+**Health:**
+- Doctors, dentists, nurses, mental health providers
+- Pharmacists providing medical consultation
+- Physical therapists
+- NOT: Health clubs, research, medical devices
+
+**Law:**
+- Attorneys, paralegals, arbitrators
+- Legal support services
+- NOT: Printing and delivery
+
+**Accounting:**
+- CPAs, EAs, tax preparers
+- Bookkeeping services
+- NOT: Payroll processing (without tax advisory)
+
+**Actuarial Science:**
+- Actuaries
+- Risk assessment services
+
+**Performing Arts:**
+- Actors, singers, musicians
+- Directors, choreographers
+- NOT: Radio/TV station owners
+
+**Consulting:**
+- Advice and counsel
+- NOT: Embedded in sale of goods/services
+
+**Athletics:**
+- Professional athletes
+- Team owners (services of athletes)
+- NOT: Equipment manufacturers, stadium owners
+
+**Financial Services:**
+- Wealth planners, financial advisors
+- Investment banking
+- Securities dealers/traders
+- NOT: Banking (interest income business)
+
+**Brokerage Services:**
+- Real estate agents/brokers
+- Insurance agents/brokers
+- Stock/commodity brokers
+
+**Investment Management:**
+- Investment managers
+- Fund managers
+- NOT: REITs (qualify separately)
+
+**Trading:**
+- Trading in securities, commodities, interests
+- Active traders
+
+**Principal Asset is Reputation/Skill:**
+- Income attributable to individual's reputation
+- Endorsement income
+- Licensing name/likeness
+- Appearance fees
+
+#### 7.1.4 Income Threshold Phase-Ins
+
+**2024 Thresholds:**
+
+**Full Deduction (Under Threshold):**
+- Single/HOH: Under $191,950
+- MFJ: Under $383,900
+
+No SSTB or W-2/UBIA limitations apply.
+
+**Phase-In Range:**
+- Single/HOH: $191,950 - $241,950
+- MFJ: $383,900 - $483,900
+
+SSTB and W-2/UBIA limitations phase in.
+
+**Fully Limited (Over Threshold):**
+- Single/HOH: Over $241,950
+- MFJ: Over $483,900
+
+Full SSTB exclusion; full W-2/UBIA limitation.
+
+**Phase-In Calculations:**
+
+**SSTB Phase-Out:**
+Reduction percentage = (TI - Threshold) / $50,000 ($100,000 MFJ)
+
+Applicable percentage = 1 - Reduction percentage
+
+QBI from SSTB × Applicable percentage = Allowed QBI
+
+**W-2 Wage/UBIA Limitation Phase-In:**
+Same reduction percentage calculation.
+
+Reduction amount = (Initial QBI deduction - Limited deduction) × Reduction percentage
+
+Allowed deduction = Limited deduction + Reduction amount
+
+#### 7.1.5 W-2 Wage and UBIA Limitations
+
+**When Limitations Apply:**
+Over threshold amounts.
+
+**Two Alternative Limitations:**
+
+**Alternative 1: 50% of W-2 Wages**
+Deduction limited to 50% of W-2 wages allocable to QBI.
+
+**Alternative 2: 25% W-2 + 2.5% UBIA**
+Deduction limited to 25% of W-2 wages + 2.5% of unadjusted basis of qualified property.
+
+Use greater of two alternatives.
+
+**W-2 Wages Defined:**
+- Total wages for calendar year
+- Subject to withholding
+- Remuneration, commissions, noncash fringe benefits
+- Elective deferrals (401(k), etc.)
+
+**Allocation to QBI:**
+Allocate W-2 wages to activity generating QBI.
+Reasonable method (usually based on activities).
+
+**UBIA of Qualified Property:**
+- Unadjusted basis immediately after acquisition
+- Property held at end of year
+- Used in production of QBI
+- Depreciable period not ended
+
+**Depreciable Period:**
+Greater of:
+- MACRS recovery period, OR
+- 10 years from placed in service
+
+#### 7.1.6 Aggregation Rules
+
+**Optional Aggregation:**
+Taxpayers may aggregate multiple qualified businesses.
+
+**Benefits:**
+- Combine W-2 wages from multiple businesses
+- Combine UBIA from multiple businesses
+- Offset QBI losses against QBI income
+
+**Requirements for Aggregation:**
+All businesses must meet ALL of the following:
+
+1. Same taxable year
+2. None is an SSTB
+3. Satisfy TWO of THREE:
+   a. Same products/services
+   b. Share facilities or centralized business
+   c. Operated in coordination
+
+**Aggregation Statement:**
+Must attach statement to return:
+- Name and EIN of each business
+- Description of each business
+- How requirements are met
+- Information for each entity
+
+**Once Aggregated:**
+Must continue to aggregate in future years (unless circumstances change).
+
+### 7.2 NET INVESTMENT INCOME TAX (NIIT)
+
+#### 7.2.1 NIIT Overview
+
+**Tax Rate:** 3.8%
+
+**Threshold Amounts:**
+- Single: $200,000
+- MFJ: $250,000
+- MFS: $125,000
+- HOH: $200,000
+- QSS: $250,000
+
+**Tax Calculation:**
+3.8% × Lesser of:
+1. Net Investment Income, OR
+2. MAGI minus threshold
+
+#### 7.2.2 Net Investment Income Components
+
+**Gross Investment Income:**
+
+**Interest:**
+- Taxable interest
+- NOT tax-exempt interest
+
+**Dividends:**
+- Ordinary dividends
+- Qualified dividends
+
+**Annuities:**
+- Taxable portion of annuity payments
+- NOT qualified retirement plan distributions
+
+**Royalties:**
+- All royalty income
+- NOT earned in trade or business
+
+**Rents:**
+- Rental income (passive activities)
+- NOT rents from active business
+
+**Capital Gains:**
+- Net capital gains
+- From investment property
+- From passive activities
+
+**Passive Activity Income:**
+- Income from passive activities
+- Per Section 469 rules
+
+**Income from Trading:**
+- Trading in financial instruments
+- Commodities
+
+**Deductions Against Gross Investment Income:**
+
+**Properly Allocable Deductions:**
+- Investment interest expense
+- Investment advisory fees (if allowed)
+- State and local income taxes (allocated)
+- Rental expenses
+- Depreciation (passive activities)
+
+**Modified Adjusted Gross Income:**
+- AGI
+- Plus: Foreign earned income exclusion
+- Plus: Foreign housing exclusion
+- Plus: Excluded income from Puerto Rico/Guam/etc.
+
+#### 7.2.3 Exceptions to NIIT
+
+**Active Trade or Business:**
+Income from active trade or business not subject to NIIT.
+
+**Requirements:**
+- Material participation (Section 469 tests)
+- NOT passive activity
+
+**Real Estate Professional Exception:**
+Real estate professionals with material participation.
+
+**Qualified Plan Distributions:**
+- 401(k), 403(b), IRA distributions
+- NOT considered investment income
+
+**Self-Employment Income:**
+- Subject to FICA, not NIIT
+- Active business income
+
+**Tax-Exempt Income:**
+- Municipal bond interest
+- Other tax-exempt income
+
+#### 7.2.4 Form 8960 Completion
+
+**Part I - Investment Income:**
+- Line 1: Taxable interest
+- Line 2: Ordinary dividends
+- Line 3: Annuities
+- Line 4a: Rental real estate, royalties, etc.
+- Line 4b: Adjustment for properly deducted rental loss
+- Line 5a: Net gain from disposition of property
+- Line 5b: Net gain from disposition included in income
+- Line 5c: Adjustment to gains included in investment income
+- Line 5d: Net gain
+- Line 6: Net investment income adjustment
+- Line 7: Other modifications to investment income
+- Line 8: Gross investment income
+
+**Part II - Investment Expenses:**
+- Line 9a: Investment interest expense
+- Line 9b: State and local income taxes
+- Line 9c: Miscellaneous investment expenses
+- Line 9d: Other deductions
+- Line 10: Total investment expenses
+- Line 11: Net investment income (Line 8 minus Line 10)
+
+**Part III - Tax Computation:**
+- Line 12: MAGI
+- Line 13: Threshold
+- Line 14: Excess MAGI (Line 12 minus Line 13)
+- Line 15: Smaller of Line 11 or Line 14
+- Line 16: Net Investment Income Tax (Line 15 × 0.038)
+
+### 7.3 DEPRECIATION AND SECTION 179
+
+#### 7.3.1 MACRS Depreciation System
+
+**General Depreciation System (GDS):**
+Most commonly used system.
+
+**Recovery Periods:**
+
+**3-Year Property:**
+- Tractor units for over-the-road use
+- Qualified rent-to-own property
+- Horses over 12 years old
+
+**5-Year Property:**
+- Automobiles
+- Light trucks
+- Computers and peripherals
+- Office machinery
+- Research and experimental property
+- Appliances, carpets in rental property
+- Semi-conductor manufacturing equipment
+
+**7-Year Property:**
+- Office furniture and fixtures
+- Agricultural machinery
+- Property not assigned to other class
+- Most manufacturing equipment
+
+**10-Year Property:**
+- Vessels, barges, tugs
+- Single purpose agricultural/horticultural structures
+- Assets used in petroleum refining
+
+**15-Year Property:**
+- Land improvements (fences, roads, bridges)
+- Retail motor fuel outlets
+- Qualified leasehold, restaurant, retail improvement property (before PATH Act)
+- Municipal wastewater treatment plants
+
+**20-Year Property:**
+- Farm buildings
+- Municipal sewers
+
+**25-Year Property:**
+- Water utility property
+- Municipal sewers (certain)
+
+**27.5-Year Property:**
+- Residential rental property
+
+**39-Year Property:**
+- Nonresidential real property
+
+**Conventions:**
+
+**Half-Year Convention:**
+- Default for personal property
+- 6 months depreciation in first and last year
+- Regardless of when placed in service
+
+**Mid-Quarter Convention:**
+- Required if >40% placed in service in Q4
+- Based on quarter placed in service
+- More precise first-year calculation
+
+**Mid-Month Convention:**
+- For real property
+- Half month in month placed in service
+- Half month in month disposed
+
+**Methods:**
+
+**200% Declining Balance:**
+- Standard for 3, 5, 7, 10-year property
+- Switches to straight-line when beneficial
+
+**150% Declining Balance:**
+- Default for 15, 20-year property
+- All property under ADS
+- Election for any property
+
+**Straight-Line:**
+- Required for real property
+- Election available for any property
+- Over applicable recovery period
+
+#### 7.3.2 Section 179 Expensing
+
+**Election to Expense:**
+Allows immediate deduction of cost of qualifying property.
+
+**2024 Limitations:**
+- Maximum deduction: $1,220,000
+- Investment ceiling: $3,050,000
+- Phase-out: Dollar-for-dollar reduction above ceiling
+
+**Qualifying Property:**
+- Tangible personal property
+- Off-the-shelf computer software
+- Qualified improvement property
+- Certain real property (roofs, HVAC, security, fire protection)
+- Single purpose agricultural/horticultural structures
+
+**Not Qualifying:**
+- Buildings and structural components (generally)
+- Land and land improvements
+- Property held for investment
+- Property used outside U.S.
+- Property acquired from related party
+- Inherited property
+- Property used for lodging
+
+**Income Limitation:**
+- Cannot exceed taxable income from active trade/business
+- Unused amount carries forward
+- Includes wages, business income
+- Computed at entity level for pass-throughs
+
+**Election:**
+- Made on first return filed for year (timely or not)
+- Includes extensions
+- Can specify less than maximum
+- Once made, irrevocable
+
+**Pass-Through to Owners:**
+- Entity makes election
+- Passes through to owners on K-1
+- Subject to owner's limitations
+- Owner's taxable income considered
+
+#### 7.3.3 Bonus Depreciation (Section 168(k))
+
+**Additional First-Year Depreciation:**
+
+**Phase-Out Schedule:**
+- 2023: 80%
+- 2024: 60%
+- 2025: 40%
+- 2026: 20%
+- 2027+: 0%
+
+**Qualifying Property:**
+- MACRS property with recovery period ≤20 years
+- Computer software
+- Water utility property
+- Qualified film/TV/live theatrical productions
+- Used property (acquired after 9/27/2017)
+
+**Requirements:**
+- Original use begins with taxpayer (or used property rules met)
+- Acquired after September 27, 2017
+- Placed in service before January 1, 2027
+
+**Used Property Rules:**
+- Not acquired from related party
+- Not acquired in like-kind exchange
+- Not previously used by taxpayer
+
+**Election Out:**
+- Can elect out of bonus depreciation
+- Election by class of property
+- Made on timely filed return (with extensions)
+
+**Order of Application:**
+1. Section 179 expensing
+2. Bonus depreciation
+3. Regular MACRS depreciation
+
+#### 7.3.4 Listed Property Rules
+
+**Listed Property Definition:**
+- Passenger automobiles
+- Any other transportation property
+- Property used for entertainment, recreation, amusement
+- Computers and peripherals (unless used exclusively at regular business establishment)
+- Cell phones
+
+**Special Rules:**
+- Must document business use
+- If business use ≤50%, no Section 179 or bonus depreciation
+- If business use ≤50%, use ADS straight-line depreciation
+- Recapture if business use drops to ≤50%
+
+**Documentation Requirements:**
+- Date of use
+- Business purpose
+- Business destination
+- Business miles (if vehicle)
+- Total miles
+
+**Luxury Auto Limitations (2024):**
+- Year 1: $12,200 ($20,200 with bonus)
+- Year 2: $19,500
+- Year 3: $11,700
+- Year 4+: $6,960
+
+**SUV/Truck Exception:**
+Vehicles over 6,000 lbs GVWR not subject to luxury limits.
+Still subject to Section 179 $28,900 limit.
+
+---
+
+## SECTION 8: FORMS AND SCHEDULES QUICK REFERENCE
+
+### 8.1 INDIVIDUAL TAX FORMS
+
+**Form 1040:** U.S. Individual Income Tax Return
+- Main return for all individuals
+- Reports all income, deductions, credits
+
+**Schedule 1:** Additional Income and Adjustments
+- Part I: Additional Income (alimony, business income, etc.)
+- Part II: Adjustments (educator expenses, HSA, IRA, etc.)
+
+**Schedule 2:** Additional Taxes
+- Part I: Tax (AMT, excess advance PTC, etc.)
+- Part II: Other Taxes (SE tax, Additional Medicare, etc.)
+
+**Schedule 3:** Additional Credits and Payments
+- Part I: Nonrefundable Credits
+- Part II: Other Payments and Refundable Credits
+
+**Schedule A:** Itemized Deductions
+- Medical and dental expenses
+- Taxes paid
+- Interest paid
+- Charitable contributions
+- Other deductions
+
+**Schedule B:** Interest and Ordinary Dividends
+- Part I: Interest ($1,500+ or nominee)
+- Part II: Ordinary Dividends ($1,500+ or nominee)
+- Part III: Foreign Accounts and Trusts
+
+**Schedule C:** Profit or Loss From Business
+- Sole proprietorship income/expenses
+- Self-employment income calculation
+
+**Schedule D:** Capital Gains and Losses
+- Summary from Form 8949
+- Gain/loss netting
+- Carryover calculation
+
+**Schedule E:** Supplemental Income and Loss
+- Part I: Rental real estate
+- Part II: Partnership, S Corp, estate, trust income
+- Part III: Estate/trust income
+
+**Schedule F:** Profit or Loss From Farming
+- Farm income and expenses
+- Farm self-employment
+
+**Schedule H:** Household Employment Taxes
+- Social Security, Medicare, FUTA for household employees
+
+**Schedule J:** Income Averaging for Farmers and Fishermen
+- Three-year income averaging election
+
+**Schedule R:** Credit for Elderly or Disabled
+- Age 65+ or permanently disabled
+- Income limitations apply
+
+**Schedule SE:** Self-Employment Tax
+- Social Security and Medicare on SE income
+- Short/Long methods available
+
+### 8.2 BUSINESS TAX FORMS
+
+**Form 1065:** U.S. Return of Partnership Income
+- Partnership income, deductions, credits
+- Schedule K: Partners' Distributive Share Items
+- Schedule K-1: Partner's Share of Income, etc.
+
+**Form 1120:** U.S. Corporation Income Tax Return
+- C corporation income and deductions
+- Tax computation
+- Credits and payments
+
+**Form 1120-S:** U.S. Income Tax Return for S Corporation
+- S corporation income, deductions, credits
+- Schedule K: Shareholders' Pro Rata Share Items
+- Schedule K-1: Shareholder's Share of Income, etc.
+
+**Form 1120-W:** Estimated Tax for Corporations
+- Worksheet for required estimated payments
+
+**Form 1041:** U.S. Income Tax Return for Estates and Trusts
+- Fiduciary income and deductions
+- Distribution deduction
+- Schedule K-1 for beneficiaries
+
+**Form 990:** Return of Organization Exempt From Income Tax
+- Tax-exempt organization annual return
+- Public disclosure required
+
+### 8.3 EMPLOYMENT TAX FORMS
+
+**Form 940:** Employer's Annual FUTA Tax Return
+- Federal unemployment tax
+- State credit calculation
+
+**Form 941:** Employer's Quarterly Federal Tax Return
+- Federal income tax withheld
+- Social Security and Medicare taxes
+- Deposit schedule
+
+**Form 943:** Employer's Annual Federal Tax Return for Agricultural Employees
+- Farm employer equivalent of 941
+
+**Form 944:** Employer's Annual Federal Tax Return
+- Small employer alternative to 941
+- Must request eligibility
+
+**Form 945:** Annual Return of Withheld Federal Income Tax
+- Withholding from pensions, annuities, gambling
+- Backup withholding
+
+**Form W-2:** Wage and Tax Statement
+- Employee wages and withholding
+- Furnish to employee and SSA
+
+**Form W-3:** Transmittal of Wage and Tax Statements
+- Summary of all W-2s
+- Submitted with W-2s to SSA
+
+**Form W-4:** Employee's Withholding Certificate
+- Employee withholding elections
+- Retained by employer
+
+### 8.4 INFORMATION RETURNS
+
+**Form 1099-NEC:** Nonemployee Compensation
+- Payments of $600+ to non-employees
+- Due January 31
+
+**Form 1099-MISC:** Miscellaneous Income
+- Rents, royalties, prizes, awards
+- Other income $600+
+
+**Form 1099-INT:** Interest Income
+- Interest payments $10+
+- Tax-exempt interest
+
+**Form 1099-DIV:** Dividends and Distributions
+- Dividends $10+
+- Capital gain distributions
+
+**Form 1099-B:** Proceeds From Broker Transactions
+- Stock/security sales
+- Basis reporting
+
+**Form 1099-R:** Distributions From Pensions, Annuities, etc.
+- Retirement plan distributions
+- Distribution codes
+
+**Form 1099-K:** Payment Card and Third Party Network Transactions
+- Payment settlement entity reporting
+- Threshold: $600 (effective 2024)
+
+**Form 1096:** Annual Summary and Transmittal
+- Transmittal for paper 1099s
+- Separate form for each type
+
+### 8.5 OTHER COMMON FORMS
+
+**Form 2553:** Election by Small Business Corporation
+- S corporation election
+- All shareholders must consent
+
+**Form 2848:** Power of Attorney and Declaration of Representative
+- Authorize representative
+- Specify tax matters and years
+
+**Form 4506:** Request for Copy of Tax Return
+- Request actual return copy
+- Fee applies
+
+**Form 4506-T:** Request for Transcript of Tax Return
+- Request transcript (free)
+- Various transcript types available
+
+**Form 4562:** Depreciation and Amortization
+- Section 179 election
+- Depreciation calculations
+- Listed property
+
+**Form 4797:** Sales of Business Property
+- Section 1231 gains and losses
+- Depreciation recapture
+
+**Form 4868:** Application for Extension
+- Automatic 6-month extension
+- Must estimate and pay tax
+
+**Form 7004:** Application for Extension (Business)
+- Business return extension
+- Various extension periods
+
+**Form 8283:** Noncash Charitable Contributions
+- Property donations >$500
+- Appraisal requirements
+
+**Form 8332:** Release of Claim to Exemption
+- Noncustodial parent claiming child
+- Must attach to return
+
+**Form 8379:** Injured Spouse Allocation
+- Protect spouse's refund from offset
+- File with return or separately
+
+**Form 8582:** Passive Activity Loss Limitations
+- Passive loss calculation
+- At-risk and passive activity rules
+
+**Form 8606:** Nondeductible IRAs
+- Basis in traditional IRA
+- Roth conversions
+
+**Form 8801:** Credit for Prior Year Minimum Tax
+- AMT credit carryforward
+- Recovery of timing differences
+
+**Form 8829:** Expenses for Business Use of Home
+- Home office deduction
+- Regular method calculation
+
+**Form 8863:** Education Credits
+- American Opportunity Credit
+- Lifetime Learning Credit
+
+**Form 8867:** Paid Preparer's Due Diligence Checklist
+- Required for EITC, CTC, AOTC, HOH
+- Penalty for noncompliance
+
+**Form 8879:** IRS e-file Signature Authorization
+- Authorize e-file
+- PIN and signature
+
+**Form 8889:** Health Savings Accounts
+- HSA contributions and distributions
+- Excess contribution penalty
+
+**Form 8949:** Sales and Other Dispositions of Capital Assets
+- Detail for Schedule D
+- Basis adjustments
+
+**Form 8960:** Net Investment Income Tax
+- 3.8% surtax calculation
+- Investment income detail
+
+**Form 8962:** Premium Tax Credit
+- Health insurance subsidy reconciliation
+- Form 1095-A information
+
+**Form 8995:** Qualified Business Income Deduction (Simplified)
+- QBI deduction for simple situations
+- Under threshold amounts
+
+**Form 8995-A:** Qualified Business Income Deduction
+- Complex QBI calculation
+- SSTB and limitations
+
+---
+
+## SECTION 9: COMPREHENSIVE CHECKLISTS AND PROCEDURES
+
+### 9.1 INDIVIDUAL TAX RETURN PREPARATION CHECKLIST
+
+#### 9.1.1 Initial Client Contact and Information Gathering
+
+**Client Information:**
+- [ ] Full legal name (verify spelling)
+- [ ] Social Security Number (verify with SS card)
+- [ ] Date of birth
+- [ ] Current address
+- [ ] Phone number (home, cell, work)
+- [ ] Email address
+- [ ] Occupation
+- [ ] Filing status
+- [ ] Prior year return (if new client)
+
+**Spouse Information (if applicable):**
+- [ ] Full legal name
+- [ ] Social Security Number
+- [ ] Date of birth
+- [ ] Occupation
+- [ ] Deceased date (if applicable)
+
+**Dependent Information (each):**
+- [ ] Full legal name
+- [ ] Social Security Number
+- [ ] Date of birth
+- [ ] Relationship to taxpayer
+- [ ] Months lived with taxpayer
+- [ ] Student status
+- [ ] Disability status
+- [ ] Did dependent file their own return?
+- [ ] Did dependent provide more than half their own support?
+- [ ] Child of divorced/separated parents?
+
+**Identity Protection:**
+- [ ] IP PIN (if applicable)
+- [ ] Prior year AGI or signature PIN
+- [ ] Bank account information for direct deposit
+
+#### 9.1.2 Income Documentation Checklist
+
+**Employment Income:**
+- [ ] W-2 from all employers
+- [ ] W-2c (corrected W-2)
+- [ ] Final pay stub (for verification)
+
+**Self-Employment/Business Income:**
+- [ ] 1099-NEC (nonemployee compensation)
+- [ ] 1099-K (payment card transactions)
+- [ ] Income records/books
+- [ ] Expense documentation
+- [ ] Vehicle mileage log
+- [ ] Home office measurements
+
+**Investment Income:**
+- [ ] 1099-INT (interest)
+- [ ] 1099-OID (original issue discount)
+- [ ] 1099-DIV (dividends)
+- [ ] 1099-B (broker transactions)
+- [ ] Cost basis information (if not on 1099-B)
+- [ ] Year-end brokerage statements
+
+**Retirement/Pension Income:**
+- [ ] 1099-R (distributions)
+- [ ] SSA-1099 (Social Security)
+- [ ] RRB-1099 (Railroad Retirement)
+- [ ] Form 8606 from prior year (IRA basis)
+
+**Rental Income:**
+- [ ] Rental income records
+- [ ] Rental expense documentation
+- [ ] Depreciation schedules from prior years
+- [ ] Property acquisition documents
+- [ ] Property improvements documentation
+
+**Pass-Through Income:**
+- [ ] Schedule K-1 (Form 1065) - Partnership
+- [ ] Schedule K-1 (Form 1120-S) - S Corporation
+- [ ] Schedule K-1 (Form 1041) - Trust/Estate
+- [ ] Basis schedules from prior years
+
+**Other Income:**
+- [ ] 1099-G (unemployment, state refund)
+- [ ] 1099-MISC (other income)
+- [ ] 1099-C (cancellation of debt)
+- [ ] 1099-S (real estate transactions)
+- [ ] W-2G (gambling winnings)
+- [ ] 1099-SA (HSA distributions)
+- [ ] Alimony received (pre-2019 agreements)
+- [ ] Jury duty pay
+- [ ] Hobby income
+- [ ] Bartering income
+- [ ] Cryptocurrency transactions
+
+#### 9.1.3 Deduction Documentation Checklist
+
+**Medical Expenses:**
+- [ ] Health insurance premiums (after-tax only)
+- [ ] Medical/dental care payments
+- [ ] Prescription medications
+- [ ] Medical equipment/supplies
+- [ ] Long-term care insurance
+- [ ] Miles for medical purposes
+- [ ] Insurance reimbursements received
+
+**Taxes Paid:**
+- [ ] State/local income taxes paid (Form W-2 Box 17, estimates)
+- [ ] Real estate taxes
+- [ ] Personal property taxes (vehicles)
+- [ ] Sales taxes (if electing)
+- [ ] Foreign taxes paid
+
+**Interest Paid:**
+- [ ] Form 1098 (mortgage interest)
+- [ ] Form 1098-E (student loan interest)
+- [ ] Investment interest expense
+- [ ] Points paid for home purchase
+
+**Charitable Contributions:**
+- [ ] Cash contributions (receipts/bank records)
+- [ ] Non-cash contributions (receipts)
+- [ ] Mileage for charity
+- [ ] Out-of-pocket volunteer expenses
+- [ ] Written acknowledgments for gifts $250+
+- [ ] Form 1098-C (vehicle donations)
+- [ ] Appraisals for non-cash gifts $5,000+
+- [ ] Carryover from prior years
+
+**Business Deductions (Schedule C):**
+- [ ] Advertising expenses
+- [ ] Car/truck expenses (mileage log)
+- [ ] Commissions and fees
+- [ ] Contract labor (1099s issued?)
+- [ ] Depreciation schedules
+- [ ] Insurance premiums
+- [ ] Interest expense
+- [ ] Legal/professional fees
+- [ ] Office expenses
+- [ ] Rent expense
+- [ ] Repairs and maintenance
+- [ ] Supplies
+- [ ] Taxes and licenses
+- [ ] Travel expenses
+- [ ] Meals (50% deductible)
+- [ ] Utilities
+- [ ] Other expenses
+
+**Rental Deductions (Schedule E):**
+- [ ] Advertising
+- [ ] Auto/travel expenses
+- [ ] Cleaning/maintenance
+- [ ] Commissions
+- [ ] Insurance
+- [ ] Legal/professional fees
+- [ ] Management fees
+- [ ] Mortgage interest (1098)
+- [ ] Repairs
+- [ ] Supplies
+- [ ] Taxes
+- [ ] Utilities
+- [ ] Depreciation schedules
+
+#### 9.1.4 Credit Documentation Checklist
+
+**Child Tax Credit:**
+- [ ] Verify children under 17
+- [ ] Verify SSN for each child
+- [ ] Verify residency (6+ months)
+- [ ] Verify relationship
+
+**Earned Income Credit:**
+- [ ] Form 8867 due diligence
+- [ ] Verify qualifying children (if applicable)
+- [ ] Verify earned income
+- [ ] Verify investment income under limit
+- [ ] Verify filing status qualifications
+- [ ] Verify SSN requirements
+
+**Education Credits:**
+- [ ] Form 1098-T
+- [ ] Books/supplies receipts (AOTC)
+- [ ] Scholarships and grants documentation
+- [ ] Verify enrollment status
+- [ ] Verify years of credit claimed
+
+**Child and Dependent Care Credit:**
+- [ ] Care provider name, address, TIN
+- [ ] Amount paid to each provider
+- [ ] Employer dependent care benefits (W-2 Box 10)
+- [ ] Verify work-related care requirement
+
+**Premium Tax Credit:**
+- [ ] Form 1095-A
+- [ ] Documentation of coverage months
+- [ ] Other health coverage availability
+
+**Retirement Savings Credit:**
+- [ ] Retirement contributions
+- [ ] Verify not full-time student
+- [ ] Verify age 18+
+- [ ] Verify not dependent
+
+**Other Credits:**
+- [ ] Foreign tax credit documentation
+- [ ] Residential energy credits (Form 5695)
+- [ ] Adoption credit documentation
+- [ ] Electric vehicle credit
+
+#### 9.1.5 Other Required Information
+
+**Health Coverage:**
+- [ ] Form 1095-A (Marketplace)
+- [ ] Form 1095-B (other coverage)
+- [ ] Form 1095-C (employer coverage)
+- [ ] Months without coverage
+- [ ] Exemption documentation
+
+**Foreign Financial Information:**
+- [ ] Foreign bank accounts (for FBAR)
+- [ ] Foreign financial assets (for Form 8938)
+- [ ] Foreign earned income
+- [ ] Foreign taxes paid
+
+**Estimated Tax Payments:**
+- [ ] Federal estimated payments (dates and amounts)
+- [ ] State estimated payments
+- [ ] Prior year overpayment applied
+
+**Life Events:**
+- [ ] Marriage/divorce
+- [ ] Birth/adoption of child
+- [ ] Death of family member
+- [ ] Home purchase/sale
+- [ ] Major asset sale
+- [ ] Gambling wins/losses
+- [ ] Disaster losses
+- [ ] Business start/close
+
+### 9.2 BUSINESS TAX RETURN PREPARATION CHECKLIST
+
+#### 9.2.1 Entity Information
+
+**Basic Entity Information:**
+- [ ] Legal entity name
+- [ ] Employer Identification Number (EIN)
+- [ ] Address
+- [ ] Date formed
+- [ ] State of formation
+- [ ] Fiscal year end
+- [ ] Accounting method
+- [ ] Business activity code
+- [ ] Principal product/service
+
+**Ownership Information:**
+- [ ] Names of all owners/shareholders/partners
+- [ ] SSN/EIN for each owner
+- [ ] Ownership percentages
+- [ ] Address of each owner
+- [ ] Changes in ownership during year
+
+**Prior Year Information:**
+- [ ] Prior year tax return
+- [ ] Prior year financial statements
+- [ ] Carryover schedules (NOL, credits, etc.)
+- [ ] Depreciation schedules
+- [ ] Basis schedules
+
+#### 9.2.2 Financial Information
+
+**Income Statement:**
+- [ ] Gross receipts/sales
+- [ ] Returns and allowances
+- [ ] Cost of goods sold
+- [ ] Other income
+- [ ] Complete expense detail
+
+**Balance Sheet:**
+- [ ] Cash balances
+- [ ] Accounts receivable
+- [ ] Inventory
+- [ ] Prepaid expenses
+- [ ] Fixed assets and depreciation
+- [ ] Other assets
+- [ ] Accounts payable
+- [ ] Accrued expenses
+- [ ] Notes payable
+- [ ] Other liabilities
+- [ ] Equity accounts
+
+**Trial Balance:**
+- [ ] Complete trial balance
+- [ ] Adjusting entries
+- [ ] Reconciliation to financial statements
+
+#### 9.2.3 Supporting Schedules
+
+**Compensation:**
+- [ ] Officer compensation detail
+- [ ] Employee wages summary
+- [ ] Form W-2 reconciliation
+- [ ] Payroll tax returns (941, 940)
+- [ ] Retirement plan contributions
+- [ ] Health insurance payments
+
+**Related Party Transactions:**
+- [ ] Loans to/from shareholders
+- [ ] Compensation to related parties
+- [ ] Rent paid to related parties
+- [ ] Sales/purchases with related parties
+
+**Depreciation:**
+- [ ] Asset additions schedule
+- [ ] Asset dispositions
+- [ ] Section 179 elections
+- [ ] Bonus depreciation elections
+- [ ] Vehicle information (listed property)
+
+**Other:**
+- [ ] Charitable contributions detail
+- [ ] State tax payments
+- [ ] Interest expense detail
+- [ ] Professional fees detail
+- [ ] Travel and entertainment detail
+- [ ] Bad debt write-offs
+- [ ] Insurance expense detail
+
+#### 9.2.4 Entity-Specific Items
+
+**Partnership (Form 1065):**
+- [ ] Partnership agreement
+- [ ] Guaranteed payments detail
+- [ ] Capital account changes
+- [ ] Partner basis schedules
+- [ ] Section 754 election status
+- [ ] Special allocation documentation
+
+**S Corporation (Form 1120-S):**
+- [ ] Officer compensation analysis
+- [ ] Shareholder basis schedules
+- [ ] AAA/OAA/PTI tracking
+- [ ] Loan documentation
+- [ ] Distribution records
+- [ ] Built-in gains analysis (if converted from C corp)
+
+**C Corporation (Form 1120):**
+- [ ] Dividend payment records
+- [ ] E&P calculation
+- [ ] NOL schedules
+- [ ] Tax credit carryovers
+- [ ] Estimated tax payments
+- [ ] Accumulated earnings analysis
+
+### 9.3 REVIEW CHECKLIST
+
+#### 9.3.1 Individual Return Review Points
+
+**Identification and Filing Status:**
+- [ ] Names spelled correctly
+- [ ] SSNs correct and valid
+- [ ] Addresses current
+- [ ] Filing status appropriate
+- [ ] Dependent qualifications verified
+- [ ] IP PIN entered if applicable
+
+**Income:**
+- [ ] All W-2s entered
+- [ ] W-2 totals match input
+- [ ] All 1099s entered
+- [ ] 1099-B reconciled to statements
+- [ ] K-1s entered completely
+- [ ] Rental income/expense reasonable
+- [ ] Business income/expense reasonable
+- [ ] Prior year income compared
+
+**Deductions:**
+- [ ] Standard vs. itemized analysis done
+- [ ] Medical expenses exceed 7.5% floor
+- [ ] SALT limited to $10,000
+- [ ] Mortgage interest on qualifying debt
+- [ ] Charitable substantiation adequate
+- [ ] Business expenses supported
+
+**Credits:**
+- [ ] Credit eligibility verified
+- [ ] Due diligence completed (EITC, CTC, AOTC, HOH)
+- [ ] Form 8867 completed
+- [ ] Education credit calculations correct
+- [ ] Premium tax credit reconciled
+
+**Other:**
+- [ ] AMT calculated if applicable
+- [ ] SE tax calculated correctly
+- [ ] QBI deduction calculated
+- [ ] Carryovers tracked
+- [ ] Estimates reviewed for next year
+- [ ] Bank information correct for refund
+- [ ] E-file authorization obtained
+
+#### 9.3.2 Business Return Review Points
+
+**Entity Information:**
+- [ ] EIN correct
+- [ ] Entity type correct
+- [ ] Accounting method consistent
+- [ ] Fiscal year correct
+
+**Income:**
+- [ ] Gross receipts reconcile to records
+- [ ] Other income classified correctly
+- [ ] Income timing appropriate (cash/accrual)
+
+**Deductions:**
+- [ ] Compensation reasonable
+- [ ] Related party transactions identified
+- [ ] Depreciation calculated correctly
+- [ ] Section 179/bonus appropriate
+- [ ] Entertainment fully disallowed
+- [ ] Meals at 50%
+- [ ] Charitable within limits
+
+**Balance Sheet:**
+- [ ] Beginning balance matches prior year ending
+- [ ] Assets reconcile to fixed asset schedule
+- [ ] Liabilities complete
+- [ ] Equity accounts reconcile
+
+**Schedule M-1/M-2:**
+- [ ] Book-tax differences identified
+- [ ] Permanent differences correct
+- [ ] Temporary differences track
+- [ ] Capital accounts reconcile
+
+**K-1 Review:**
+- [ ] All owners included
+- [ ] Ownership percentages correct
+- [ ] All items flow to K-1s
+- [ ] Basis calculations attached
+
+### 9.4 YEAR-END PLANNING CHECKLIST
+
+#### 9.4.1 Individual Year-End Planning
+
+**Income Management:**
+- [ ] Defer income to next year if beneficial
+- [ ] Accelerate income if in lower bracket
+- [ ] Harvest capital losses
+- [ ] Avoid wash sale rules
+- [ ] Consider Roth conversions
+- [ ] Review required minimum distributions
+
+**Deduction Timing:**
+- [ ] Bunch itemized deductions
+- [ ] Prepay deductible expenses
+- [ ] Make charitable contributions
+- [ ] Consider donor-advised funds
+- [ ] Pay property taxes
+- [ ] Prepay state estimated taxes (SALT limit)
+
+**Retirement Planning:**
+- [ ] Maximize 401(k) contributions
+- [ ] Catch-up contributions if 50+
+- [ ] IRA contributions
+- [ ] SEP or SIMPLE contributions
+- [ ] Review RMD requirements
+
+**Tax Credit Optimization:**
+- [ ] Education credit planning
+- [ ] Child care credit planning
+- [ ] Energy credit opportunities
+- [ ] EV credit qualification
+
+**Estimated Tax Review:**
+- [ ] Review safe harbor compliance
+- [ ] Adjust withholding if needed
+- [ ] Calculate Q4 estimate
+- [ ] Consider January 15 payment
+
+#### 9.4.2 Business Year-End Planning
+
+**Income Timing:**
+- [ ] Defer revenue recognition if possible
+- [ ] Review accounts receivable
+- [ ] Consider installment sales
+- [ ] Like-kind exchange opportunities
+
+**Expense Acceleration:**
+- [ ] Purchase equipment before year-end
+- [ ] Section 179 election planning
+- [ ] Bonus depreciation planning
+- [ ] Prepay deductible expenses
+- [ ] Pay bonuses before year-end
+- [ ] Contribute to retirement plans
+
+**Entity Planning:**
+- [ ] S corp reasonable compensation review
+- [ ] Guaranteed payment planning
+- [ ] Distribution planning
+- [ ] Basis adequacy review
+
+**Compliance Items:**
+- [ ] W-2 and 1099 preparation
+- [ ] Year-end payroll compliance
+- [ ] Asset reconciliation
+- [ ] Inventory counts
+- [ ] Bad debt review
+
+### 9.5 DUE DILIGENCE CHECKLIST (FORM 8867)
+
+#### 9.5.1 Earned Income Credit Due Diligence
+
+**Knowledge Requirement:**
+- [ ] Did you ask questions to determine eligibility?
+- [ ] Did you document the responses?
+- [ ] Did you probe for inconsistencies?
+- [ ] Did you verify the information makes sense?
+
+**Eligibility Verification:**
+- [ ] Filing status verified
+- [ ] Valid SSN for taxpayer (and spouse)
+- [ ] Valid SSN for qualifying children (if any)
+- [ ] Earned income calculated correctly
+- [ ] Investment income under limit
+- [ ] AGI under limit for number of children
+- [ ] Not MFS
+- [ ] Residency requirements verified
+- [ ] Age requirements verified (if no children)
+
+**Qualifying Child Verification (if applicable):**
+- [ ] Relationship test met
+- [ ] Age test met
+- [ ] Residency test met (6+ months)
+- [ ] Joint return test met
+- [ ] Not qualifying child of another
+
+**Documentation:**
+- [ ] Completed Form 8867
+- [ ] Retained copy of documents
+- [ ] Computation worksheet completed
+- [ ] Noted information sources
+
+#### 9.5.2 Child Tax Credit Due Diligence
+
+**Eligibility Verification:**
+- [ ] Child under 17 at year end
+- [ ] Valid SSN for child (not ITIN)
+- [ ] Relationship test met
+- [ ] Residency test met (6+ months)
+- [ ] Support test met
+- [ ] Citizenship test met
+- [ ] Joint return test met
+
+**Credit Calculation:**
+- [ ] AGI phase-out applied correctly
+- [ ] Refundable portion calculated
+- [ ] Earned income requirement checked
+
+#### 9.5.3 American Opportunity Credit Due Diligence
+
+**Eligibility Verification:**
+- [ ] Student enrolled at eligible institution
+- [ ] At least half-time for one academic period
+- [ ] First four years of post-secondary education
+- [ ] Not claimed for four prior years
+- [ ] No felony drug conviction
+- [ ] Valid SSN required
+
+**Expense Verification:**
+- [ ] Form 1098-T obtained
+- [ ] Qualified expenses documented
+- [ ] Scholarships/grants subtracted
+- [ ] Books and supplies verified (AOTC)
+
+#### 9.5.4 Head of Household Due Diligence
+
+**Eligibility Verification:**
+- [ ] Unmarried (or considered unmarried)
+- [ ] Paid more than half cost of maintaining home
+- [ ] Qualifying person lived with taxpayer required period
+- [ ] Qualifying person identified
+
+**Considered Unmarried Test (if married):**
+- [ ] Filed separate return
+- [ ] Spouse did not live in home last 6 months
+- [ ] Paid more than half cost of maintaining home
+- [ ] Home was main home of qualifying child for more than half year
+- [ ] Can claim dependency for child
+
+---
+
+## SECTION 10: TAX TABLES AND REFERENCE DATA
+
+### 10.1 2024 TAX RATES AND BRACKETS
+
+#### 10.1.1 Individual Tax Rates
+
+**Single:**
+| Taxable Income | Tax Rate |
+|----------------|----------|
+| $0 - $11,600 | 10% |
+| $11,601 - $47,150 | 12% |
+| $47,151 - $100,525 | 22% |
+| $100,526 - $191,950 | 24% |
+| $191,951 - $243,725 | 32% |
+| $243,726 - $609,350 | 35% |
+| Over $609,350 | 37% |
+
+**Married Filing Jointly:**
+| Taxable Income | Tax Rate |
+|----------------|----------|
+| $0 - $23,200 | 10% |
+| $23,201 - $94,300 | 12% |
+| $94,301 - $201,050 | 22% |
+| $201,051 - $383,900 | 24% |
+| $383,901 - $487,450 | 32% |
+| $487,451 - $731,200 | 35% |
+| Over $731,200 | 37% |
+
+**Married Filing Separately:**
+| Taxable Income | Tax Rate |
+|----------------|----------|
+| $0 - $11,600 | 10% |
+| $11,601 - $47,150 | 12% |
+| $47,151 - $100,525 | 22% |
+| $100,526 - $191,950 | 24% |
+| $191,951 - $243,725 | 32% |
+| $243,726 - $365,600 | 35% |
+| Over $365,600 | 37% |
+
+**Head of Household:**
+| Taxable Income | Tax Rate |
+|----------------|----------|
+| $0 - $16,550 | 10% |
+| $16,551 - $63,100 | 12% |
+| $63,101 - $100,500 | 22% |
+| $100,501 - $191,950 | 24% |
+| $191,951 - $243,700 | 32% |
+| $243,701 - $609,350 | 35% |
+| Over $609,350 | 37% |
+
+#### 10.1.2 Capital Gains Tax Rates
+
+**0% Rate Thresholds (2024):**
+- Single: $0 - $47,025
+- MFJ: $0 - $94,050
+- MFS: $0 - $47,025
+- HOH: $0 - $63,000
+
+**15% Rate Thresholds:**
+- Single: $47,026 - $518,900
+- MFJ: $94,051 - $583,750
+- MFS: $47,026 - $291,850
+- HOH: $63,001 - $551,350
+
+**20% Rate Thresholds:**
+- Above 15% thresholds
+
+**Special Rates:**
+- Collectibles: 28% maximum
+- Unrecaptured Section 1250: 25% maximum
+- Qualified Small Business Stock (Section 1202): Exclusion rules apply
+
+#### 10.1.3 Standard Deduction Amounts (2024)
+
+**Basic Standard Deduction:**
+- Single: $14,600
+- MFJ: $29,200
+- MFS: $14,600
+- HOH: $21,900
+- QSS: $29,200
+
+**Additional Standard Deduction (Age 65+ or Blind):**
+- Single/HOH: $1,950 each
+- MFJ/MFS/QSS: $1,550 each
+
+**Dependent Standard Deduction:**
+Greater of:
+- $1,300, OR
+- Earned income + $450 (not to exceed regular standard deduction)
+
+### 10.2 RETIREMENT CONTRIBUTION LIMITS (2024)
+
+**401(k), 403(b), 457(b):**
+- Employee deferral limit: $23,000
+- Catch-up (age 50+): $7,500
+- Total limit (including employer): $69,000
+
+**IRA:**
+- Contribution limit: $7,000
+- Catch-up (age 50+): $1,000
+- Total with catch-up: $8,000
+
+**SEP-IRA:**
+- Employer contribution: Lesser of 25% of compensation or $69,000
+- Self-employed: Lesser of 20% of net SE income or $69,000
+
+**SIMPLE IRA:**
+- Employee deferral: $16,000
+- Catch-up (age 50+): $3,500
+- Employer match: 3% of compensation (or 2% non-elective)
+
+**Solo 401(k):**
+- Employee deferral: $23,000
+- Catch-up: $7,500
+- Total limit (employee + employer): $69,000
+
+**HSA Contribution Limits (2024):**
+- Self-only coverage: $4,150
+- Family coverage: $8,300
+- Catch-up (age 55+): $1,000
+
+### 10.3 MILEAGE RATES (2024)
+
+**Standard Mileage Rates:**
+- Business: 67 cents per mile
+- Medical: 21 cents per mile
+- Charity: 14 cents per mile (statutory)
+- Moving (military): 21 cents per mile
+
+### 10.4 SOCIAL SECURITY AND MEDICARE (2024)
+
+**Social Security:**
+- Tax rate: 6.2% (employee), 6.2% (employer)
+- Wage base: $168,600
+- Maximum tax: $10,453.20 (each)
+
+**Medicare:**
+- Tax rate: 1.45% (employee), 1.45% (employer)
+- No wage base limit
+
+**Additional Medicare Tax:**
+- Tax rate: 0.9% (employee only)
+- Threshold: $200,000 (single), $250,000 (MFJ), $125,000 (MFS)
+
+**Self-Employment Tax:**
+- Combined rate: 15.3%
+- Applied to 92.35% of net SE earnings
+- 50% deductible for income tax
+
+### 10.5 ESTATE AND GIFT TAX (2024)
+
+**Gift Tax:**
+- Annual exclusion: $18,000 per donee
+- Annual exclusion (married splitting): $36,000 per donee
+- Lifetime exemption: $13,610,000
+
+**Estate Tax:**
+- Basic exclusion amount: $13,610,000
+- Top tax rate: 40%
+- Portability available (deceased spouse's unused exclusion)
+
+### 10.6 MISCELLANEOUS LIMITS AND THRESHOLDS
+
+**Section 179 (2024):**
+- Maximum deduction: $1,220,000
+- Phase-out threshold: $3,050,000
+- SUV limit: $28,900
+
+**Luxury Auto Limits (2024):**
+- Year 1: $12,200 ($20,200 with bonus)
+- Year 2: $19,500
+- Year 3: $11,700
+- Year 4+: $6,960
+
+**Qualified Business Income (2024):**
+- Full deduction threshold: $191,950 (single), $383,900 (MFJ)
+- Phase-out complete: $241,950 (single), $483,900 (MFJ)
+
+**AMT Exemption (2024):**
+- Single/HOH: $85,700
+- MFJ: $133,300
+- MFS: $66,650
+
+**EITC Maximum (2024):**
+- No children: $632
+- One child: $4,213
+- Two children: $6,960
+- Three+ children: $7,830
+
+**EITC Income Limits (2024) - Single:**
+- No children: $18,591
+- One child: $49,084
+- Two children: $55,768
+- Three+ children: $59,899
+
+**Education:**
+- Student loan interest deduction: $2,500 maximum
+- AOTC: $2,500 maximum per student
+- LLC: $2,000 maximum per return
+- Education credits phase-out: $80,000-$90,000 (single), $160,000-$180,000 (MFJ)
+
+**Medical Expense Deduction:**
+- AGI threshold: 7.5%
+
+**SALT Deduction Limit:**
+- Maximum: $10,000 ($5,000 MFS)
+
+**Charitable Contribution Limits:**
+- Cash: 60% of AGI
+- Capital gain property: 30% of AGI
+- Private foundations: 30%/20%
