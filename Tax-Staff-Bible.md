@@ -11,6 +11,44 @@
 
 ---
 
+## 🚀 QUICK NAVIGATION
+
+**[⬅️ Back to Main README](./README.md)**
+
+### Jump to Part:
+| Part | Description |
+|------|-------------|
+| [Part I](#part-i-individual-tax-returns-form-1040) | Individual Tax Returns (Form 1040) |
+| [Part II](#part-ii-business-tax-returns) | Business Tax Returns |
+| [Part III](#part-iii-payroll-tax) | Payroll Tax |
+| [Part IV](#part-iv-tax-research-methodology) | Tax Research Methodology |
+| [Part V](#part-v-workpaper-documentation) | Workpaper Documentation |
+| [Part VI](#part-vi-review-note-responses) | Review Note Responses |
+| [Part VII](#part-vii-client-communication) | Client Communication |
+| [Part VIII](#part-viii-irs-notice-handling) | IRS Notice Handling |
+| [Part IX](#part-ix-extension-and-estimate-procedures) | Extensions & Estimates |
+| [Part X](#part-x-software-workflows) | Software Workflows |
+
+### Jump to Section:
+| Section | Description |
+|---------|-------------|
+| [Section 1](#section-1-individual-tax-returns---detailed-guidance) | Individual Returns - Detailed Guidance |
+| [Section 2](#section-2-business-tax-returns---detailed-guidance) | Business Returns - Detailed Guidance |
+| [Section 3](#section-3-payroll-tax---detailed-guidance) | Payroll Tax - Detailed Guidance |
+| [Section 4](#section-4-tax-research-and-professional-standards) | Tax Research & Professional Standards |
+| [Section 5](#section-5-client-service-and-communication) | Client Service & Communication |
+| [Section 6](#section-6-irs-notice-handling---detailed-procedures) | IRS Notice Handling - Detailed |
+| [Section 7](#section-7-specialized-tax-topics) | Specialized Tax Topics |
+| [Section 8](#section-8-forms-and-schedules-quick-reference) | Forms & Schedules Quick Reference |
+| [Section 9](#section-9-comprehensive-checklists-and-procedures) | Checklists & Procedures |
+| [Section 10](#section-10-tax-tables-and-reference-data) | 2024 Tax Tables & Reference Data |
+| [Section 11](#section-11-state-tax-considerations) | State Tax Considerations |
+| [Section 12](#section-12-advanced-tax-planning-strategies) | Advanced Tax Planning Strategies |
+| [Section 13](#section-13-common-tax-issues-and-solutions) | Common Tax Issues & Solutions |
+| [Section 14](#section-14-appendices) | Appendices (IRC References, Deadlines) |
+
+---
+
 # MASTER TABLE OF CONTENTS
 
 ## PART I: INDIVIDUAL TAX RETURNS (FORM 1040)
