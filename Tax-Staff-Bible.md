@@ -1,13 +1,19 @@
-# TAX STAFF BIBLE
-## The Ultimate Comprehensive Reference Guide for Tax Professionals
+# TAX STAFF REFERENCE GUIDE
+## A Detailed Reference for Tax Professionals
 ### CJCPAs Tax Staff Knowledge Database
 
 ---
 
-**Version:** 1.0  
-**Last Updated:** 2024  
-**Classification:** Internal Reference Document  
-**Page Count:** 20,000+ Lines  
+> ⚠️ **IMPORTANT DISCLAIMER**
+>
+> This guide is for **informational and educational purposes only** and does not constitute professional tax, legal, or financial advice. Tax laws change frequently. **Always verify information with authoritative sources** (IRC, Treasury Regulations, IRS guidance) and consult qualified professionals before applying to specific situations. See the [full disclaimer](#disclaimer) at the end of this document.
+
+---
+
+**Version:** 1.0
+**Last Updated:** December 2024
+**Classification:** Open Source Reference Document
+**Content:** 10,000+ Lines of Tax Guidance
 
 ---
 
@@ -10281,3 +10287,83 @@ Book income doesn't tie to tax income.
 **December:**
 - 31: Required Minimum Distribution deadline
 - 31: Last day for certain deductions
+
+*Note: Deadlines may shift when they fall on weekends or holidays. Always verify current year deadlines with the IRS.*
+
+---
+
+## DISCLAIMER
+
+### Important Legal Notice
+
+**THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.**
+
+This Tax Staff Reference Guide is designed as a reference tool for tax professionals and is not intended to replace professional judgment, authoritative tax research, or consultation with qualified professionals.
+
+### Please Note:
+
+**Not Professional Advice:** This guide is not a substitute for professional tax advice from a qualified CPA, tax attorney, or enrolled agent. Every taxpayer's situation is unique, and the information provided here may not apply to specific circumstances. The guidance in this document should be verified against current tax law and regulations before being applied to any specific situation.
+
+**Verify with Authoritative Sources:** Before implementing any practices described in this guide, you should:
+- Consult the Internal Revenue Code (Title 26 U.S.C.) and Treasury Regulations (26 CFR) directly
+- Review current IRS guidance, revenue rulings, and publications
+- Consider consulting with a qualified CPA, tax attorney, or enrolled agent
+- Verify information is current for the applicable tax year
+- Research applicable court decisions when relevant
+
+**Accuracy Not Guaranteed:** While every effort has been made to ensure accuracy, tax laws and regulations change frequently through:
+- Congressional legislation
+- Treasury regulatory guidance
+- IRS administrative pronouncements
+- Court decisions at various levels
+
+The author(s) and contributors make no guarantees that the information is current, complete, or error-free. Even the IRS's own publications note that they cannot cover every situation—neither can this guide.
+
+**State and Local Tax Variations:** This guide focuses primarily on federal tax law. State and local tax rules vary significantly by jurisdiction and are not comprehensively covered. Always research applicable state and local requirements separately.
+
+**Open Source Disclaimer:** This is a community-driven, open source project. While we welcome contributions and strive for accuracy, content is provided by various contributors and may contain errors or become outdated. Always verify critical information with authoritative sources before relying on it for tax return preparation or tax advice.
+
+**Year-Specific Information:** Tax tables, thresholds, phase-outs, and certain rules are specific to particular tax years and are subject to:
+- Annual inflation adjustments under IRC §1(f)
+- Legislative changes
+- Regulatory updates
+
+Always verify that you are using information applicable to the correct tax year.
+
+**Professional Standards:** Tax professionals should follow all applicable professional standards, including:
+- AICPA Statements on Standards for Tax Services (SSTS)
+- Treasury Department Circular 230
+- State board of accountancy requirements
+- Firm-specific policies and procedures
+
+This guide does not supersede those professional obligations.
+
+### Authoritative Sources
+
+For the most current and authoritative tax guidance, always refer to:
+
+| Source | Description |
+|--------|-------------|
+| **Internal Revenue Code** | Title 26 of the U.S. Code - Primary tax law |
+| **Treasury Regulations** | 26 CFR - Official IRS regulations |
+| **IRS.gov** | Official IRS website for forms, publications, guidance |
+| **Revenue Rulings** | Official IRS interpretations of tax law |
+| **Revenue Procedures** | IRS administrative procedures |
+| **Tax Court Opinions** | Judicial interpretations of tax law |
+| **IRS Publications** | Detailed guidance on specific topics |
+
+### Seek Professional Assistance
+
+If you need professional assistance with tax matters, please consult with:
+- A licensed **Certified Public Accountant (CPA)**
+- An **Enrolled Agent (EA)** admitted to practice before the IRS
+- A **Tax Attorney** for legal tax matters
+- Your state's Board of Accountancy for referrals
+
+---
+
+*CJCPAs Tax Staff Reference Guide*
+*Version 1.0 | Last Updated: December 2024*
+*This is an open source project. Contributions and corrections welcome.*
+
+**[⬆️ Back to Top](#tax-staff-reference-guide)** | **[📖 Back to README](./README.md)**
